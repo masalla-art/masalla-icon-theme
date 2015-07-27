@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3037"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="512"
+   height="512"
+   sodipodi:docname="libreoffice-writer.svg"
+   viewBox="0 0 512 512">
+  <metadata
+     id="metadata3043">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3041" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview3039"
+     showgrid="false"
+     inkscape:zoom="0.27552305"
+     inkscape:cx="-532.32165"
+     inkscape:cy="125.60119"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3037"
+     inkscape:document-units="px" />
+  <g
+     id="g4138">
+    <g
+       transform="translate(-1.6916676,-5.5672264)"
+       id="g4196">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#175e99;stroke-width:27.91058731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4136"
+         width="457.202"
+         height="457.202"
+         x="29.09067"
+         y="32.966228"
+         rx="55.821178"
+         ry="55.821178" />
+      <path
+         style="display:inline;opacity:1;fill:#4aaee8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3883"
+         inkscape:connector-curvature="0"
+         d="M 93.253548,46.957963 C 73.304285,47.132176 58.063554,68.010206 60.937521,88.412048 61.038037,207.09511 60.736446,325.78738 61.085945,444.4648 c 1.461644,20.08583 20.594162,34.41538 39.113395,31.71848 114.13063,-0.10498 228.27037,0.21006 342.39526,-0.15755 19.12582,-1.51148 32.60471,-21.79334 30.0721,-41.29626 0,-72.7635 0,-145.52693 0,-218.29038 -7.72282,-18.15481 -26.27317,-29.18251 -38.28133,-44.46142 C 395.10584,131.16935 356.13988,89.993508 316.61236,49.470447 305.60002,44.494516 292.8742,48.015125 281.09345,46.958213 c -62.61361,0 -125.22724,0 -187.840859,0 z m 268.253182,0 c -7.58348,0.615409 -7.94399,11.667811 -1.71872,14.884173 34.29999,35.470522 68.10447,71.581154 102.71325,106.653354 6.69636,3.77324 12.17669,-4.7393 10.16639,-11.22591 -0.45482,-27.33771 0.93885,-54.82893 -0.74782,-82.064795 -3.0286,-19.16396 -22.11995,-30.878874 -39.71184,-28.246822 -23.56724,0 -47.134,0 -70.70126,0 z" />
+      <rect
+         style="fill:#175e99;fill-opacity:1;stroke:none"
+         id="rect4178"
+         width="82.239616"
+         height="443.20898"
+         x="38.509197"
+         y="37.332073" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4136"
+       y="383.76367"
+       x="143.44125"
+       style="font-style:normal;font-weight:normal;font-size:260.90005493px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff"
+         y="383.76367"
+         x="143.44125"
+         id="tspan4138"
+         sodipodi:role="line">W</tspan></text>
+  </g>
+</svg>

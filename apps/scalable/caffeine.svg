@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Caffeine"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   style="background-color:#ffffff"
+   x="0px"
+   y="0px"
+   width="1024px"
+   height="1024px"
+   viewBox="0 0 1024 1024"
+   enable-background="new 0 0 1024 1024"
+   inkscape:version="0.91 r"
+   sodipodi:docname="caffeine.svg">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1256"
+     inkscape:window-height="701"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="0.32593203"
+     inkscape:cx="1104.6058"
+     inkscape:cy="424.75639"
+     inkscape:window-x="15"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Caffeine" />
+  <defs
+     transform="matrix(1 0 0 1 0 0) "
+     id="defs3" />
+  <rect
+     style="opacity:1;fill:#684d34;fill-opacity:1;stroke:#c47a34;stroke-width:54.645298;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="895.14191"
+     height="895.14191"
+     x="64.429047"
+     y="64.429047"
+     rx="109.2906"
+     ry="109.2906" />
+  <g
+     id="shape4"
+     transform="translate(-12.889994,-12.271186)">
+    <path
+       style="fill:#ffffff;fill-opacity:0.29803922"
+       inkscape:connector-curvature="0"
+       d="m 788.99195,371.00805 0.025,0.025 c -0.35,-0.4 -0.75,-0.8 -1.1,-1.15 -0.25,-0.25 -0.55,-0.55 -0.85,-0.8 -5.7,-5.35 -12.5,-8 -20.35,-8 l -489.65,0 c -8.25,0 -14.58804,-2.37054 -22.28475,7.17288 -5.19364,6.43979 -4.54951,4.59372 -4.56205,9.61345 l -0.0851,34.05182 c -0.0155,6.19998 -1.41812,106.86185 1.93188,111.71185 5.25,65.15 31.65,121.55 79.25,169.15 17.7,17.7 36.65,32.5 56.35,44.1 -0.4,1.95 -0.6,4 -0.6,6.15 l 0,70 c 0,8.25 2.95,15.35 8.8,21.2 0.25,0.25 0.55,0.55 0.85,0.8 0.1,0.1 0.2,0.2 0.3,0.3 l -0.025,-0.025 0.025,0.025 c 5.65,5.15 12.3,7.7 20.05,7.7 l 212,0 c 8.25,0 15.35,-2.95 21.2,-8.8 5.85,-5.85 8.8,-12.95 8.8,-21.2 l 0,-70 c 0,-1.35 -0.1,-2.7 -0.25,-4.05 21.45,-12.25 41.4,-27.6 60,-46.2 53.5,-53.5 80.25,-118.1 80.25,-193.75 0,-5.4 -0.4,-25 -1.15,-58.85 l -1.2,-49.1 c 0,-7.75 -2.55,-14.4 -7.7,-20.05"
+       id="path3"
+       sodipodi:nodetypes="ccscssssscscsssccccssssscssccc" />
+  </g>
+  <mask
+     id="circle1">
+    <g
+       id="g">
+      <g
+         id="shape14">
+        <path
+           id="path9"
+           fill="#FFFFFF"
+           fill-opacity="1"
+           d="M969.75,392.05 C968.65,387.7 967.4,383.05 966.1,378.45 963.6,369.7 960.75,360.85 957.65,352.1 951.2,333.85 943.5,316.05 934.5,298.45 930.7,291.05 926.55,283.5 922.2,276.05 L922.175,276.05 Q891.574,224.04 845.85,178.3 C753.7,86.15 642.4,40.05 512.05,40.05 381.7,40.05 270.45,86.15 178.3,178.3 86.15,270.45 40.05,381.7 40.05,512.05 40.05,642.4 86.15,753.7 178.3,845.85 270.45,938 381.7,984.05 512.05,984.05 524.75,984.05 537.25,983.6 549.1,982.8 569.3,981.35 589,978.75 607.8,975.1 615.75,973.55 623.6,971.8 631.2,969.95 712,949.65 783.35,908.35 845.85,845.85 894.45,797.25 930.25,743.35 953.2,684.05 971.65,636.4 981.85,585.25 983.75,530.55 983.95,524.5 984.05,518.3 984.05,512.05 984.05,470.3 979.35,430.45 969.75,392.05z" />
+      </g>
+    </g>
+  </mask>
+  <g
+     id="Calque.__204"
+     transform="translate(-2,-62)">
+    <g
+       id="shape16">
+      <path
+         id="path10"
+         d="m 703.4,332.85 c -5.85,-5.85 -12.95,-8.8 -21.2,-8.8 l -215.05,0 c 35.85,-11.3 47.45,-41.95 34.9,-91.95 -30.55,52.1 -95.75,52.7 -151,69.95 -14.35,4.5 -24.3,10.55 -29.95,18.2 -5.35,7.25 -8.35,18.1 -9,32.55 l 0,59.35 400.1,0 0,-58.1 c 0,-8.25 -2.95,-15.35 -8.8,-21.2 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         id="path11"
+         d="m 713.25,474.1 -1.05,-61.95 -400.1,0 0,106.15 c 0.5,9.05 1,15.1 1.6,15.95 3.85,47.05 23.15,87.7 58,122 39.15,38.6 86.45,57.9 141.85,57.9 55.35,0 102.65,-19.3 141.8,-57.9 39.15,-38.55 58.75,-85.15 58.75,-139.7 q 0,-5.85 -0.85,-42.45 z"
+         inkscape:connector-curvature="0"
+         style="fill:#403123;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
