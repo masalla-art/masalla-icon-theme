@@ -10,7 +10,7 @@
    viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    sodipodi:docname="input-tablet.svg">
@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="714"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      id="namedview75"
      showgrid="false"
-     inkscape:zoom="0.15364583"
-     inkscape:cx="-620.47934"
-     inkscape:cy="1323.6533"
-     inkscape:window-x="404"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.43457603"
+     inkscape:cx="180.17774"
+     inkscape:cy="39.111847"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g59" />
   <defs
      id="defs4">
@@ -99,9 +99,18 @@
      transform="matrix(1.0391134,0,0,1,-0.4302477,464)">
     <g
        id="g59">
+      <rect
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#a9a9a9;stroke-width:26.92106056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4136"
+         width="432.61325"
+         height="449.53424"
+         x="30.471298"
+         y="-432.76712"
+         rx="52.819061"
+         ry="54.884995" />
       <g
          id="g4168"
-         transform="matrix(0.96235887,0,0,1,-9.108549,-480.17108)">
+         transform="matrix(0.81461377,0,0,0.84647608,36.819578,-429.18194)">
         <rect
            rx="32.079521"
            ry="32.079521"

@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
-   sodipodi:docname="cs-backgrounds.svg"
+   sodipodi:docname="wallpaper.svg"
    viewBox="0 0 512 512">
   <metadata
      id="metadata8">
@@ -40,18 +40,27 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5710716"
-     inkscape:cx="133.53683"
-     inkscape:cy="342.74215"
+     inkscape:cx="-82.054669"
+     inkscape:cy="353.35288"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:28.21699715;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="462.22131"
+     height="462.22131"
+     x="24.889343"
+     y="24.889343"
+     rx="56.433994"
+     ry="56.433994" />
   <g
-     transform="translate(-8.3144176e-6,3.4999983)"
+     transform="matrix(0.902376,0,0,0.902376,24.991737,28.150059)"
      id="g4168">
     <path
        style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.38373864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -109,13 +118,13 @@
   </g>
   <path
      style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 136.58532,275.60232 248.65534,0 -66.54157,-129.58095 -40.27516,85.8036 -38.52406,-56.035 z"
+     d="m 148.24306,273.68866 224.38061,0 -60.04552,-116.93074 -36.34333,77.42711 -34.76319,-50.56464 z"
      id="path4169"
      inkscape:connector-curvature="0" />
   <circle
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:21.72100067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4171"
-     cx="161.10065"
-     cy="163.53232"
-     r="31.51969" />
+     cx="170.3651"
+     cy="172.55939"
+     r="28.442612" />
 </svg>

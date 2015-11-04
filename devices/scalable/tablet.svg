@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="tablet.svg"
    viewBox="0 0 511.99999 511.99999">
   <metadata
@@ -38,23 +38,32 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview13"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.65186406"
-     inkscape:cx="110.0772"
-     inkscape:cy="211.24445"
+     inkscape:cx="125.91805"
+     inkscape:cy="268.97046"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      units="px" />
   <defs
      id="defs4" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#979797;stroke-width:18.592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="461.80823"
+     height="461.80823"
+     x="25.095886"
+     y="25.095886"
+     rx="56.383564"
+     ry="56.383564" />
   <g
      id="g4168"
-     transform="translate(-9.8950637,-16.17108)">
+     transform="matrix(0.88485706,0,0,0.88485706,26.857124,18.235622)">
     <rect
        rx="32.079521"
        ry="32.079521"

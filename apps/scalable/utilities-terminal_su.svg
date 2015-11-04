@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3057"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    sodipodi:docname="utilities-terminal_su.svg"
@@ -50,20 +50,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview3059"
      showgrid="false"
-     inkscape:zoom="0.32529669"
-     inkscape:cx="-631.41186"
-     inkscape:cy="245.90882"
+     inkscape:zoom="0.46003899"
+     inkscape:cx="30.387713"
+     inkscape:cy="365.04717"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3057"
      inkscape:document-units="px" />
+  <rect
+     style="opacity:1;fill:#b80000;fill-opacity:1;stroke:#000000;stroke-width:1.199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4235"
+     width="488.13559"
+     height="488.13559"
+     x="11.932205"
+     y="11.932205"
+     rx="56.433998"
+     ry="56.433998" />
   <g
      id="g4231"
-     transform="matrix(0.9301429,0,0,0.9301429,17.883412,17.883413)">
+     transform="matrix(0.8941984,0,0,0.8941984,27.085205,27.085206)">
     <rect
        ry="23.178295"
        y="14.101689"

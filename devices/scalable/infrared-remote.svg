@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="infrared-remote.svg"
    viewBox="0 0 511.99999 511.99999">
   <metadata
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      id="namedview11"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.1198134"
-     inkscape:cx="340.22131"
-     inkscape:cy="373.49921"
+     inkscape:zoom="0.38997668"
+     inkscape:cx="554.82686"
+     inkscape:cy="358.02656"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -53,29 +53,38 @@
   <defs
      id="defs4" />
   <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#223656;stroke-width:28.28212929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="463.28824"
+     height="463.28824"
+     x="24.355885"
+     y="24.355885"
+     rx="56.564259"
+     ry="56.564259" />
+  <rect
      style="fill:#223656;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-dasharray:none"
-     y="204.10052"
-     x="183.33432"
-     height="207.67459pt"
-     width="116.65372pt"
+     y="209.88513"
+     x="193.05405"
+     height="224.87016"
+     width="126.31271"
      stroke-miterlimit="2.01260191180"
      id="shape0" />
   <path
-     style="fill:none;stroke:#ffffff;stroke-width:30.29005623;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:26.23847198;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 310.0315,297.86051 c 0,-26.74463 -20.75826,-48.42555 -46.36487,-48.42555 -25.60671,0 -46.36497,21.68092 -46.36497,48.42555 0,26.74483 20.75826,48.42575 46.36497,48.42575 25.60661,0 46.36487,-21.68092 46.36487,-48.42575"
+     d="m 302.80427,291.10383 c 0,-23.16728 -17.98164,-41.94817 -40.16313,-41.94817 -22.18156,0 -40.16321,18.78089 -40.16321,41.94817 0,23.16746 17.98165,41.94835 40.16321,41.94835 22.18149,0 40.16313,-18.78089 40.16313,-41.94835"
      stroke-miterlimit="2.01260191180"
      id="shape1" />
   <path
-     style="fill:none;stroke:#d41a1a;stroke-width:30.46979713;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-opacity:1"
+     style="fill:none;stroke:#d41a1a;stroke-width:26.39417076;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;stroke-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 336.82612,151.08327 c -20.13773,-23.4351 -49.5644,-36.82599 -80.46371,-36.61531 -30.89893,0.21117 -60.14093,14.00172 -79.95723,37.7093"
+     d="m 326.01485,163.95945 c -17.44411,-20.30043 -42.93468,-31.90016 -69.70092,-31.71766 -26.7659,0.18292 -52.0965,12.12885 -69.26218,32.66532"
      stroke-miterlimit="2.01260191180"
      id="shape2" />
   <path
-     style="fill:none;stroke:#d41a1a;stroke-width:30.46979713;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
+     style="fill:none;stroke:#d41a1a;stroke-width:26.39417076;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1"
      inkscape:connector-curvature="0"
-     d="M 387.88111,106.44678 C 354.76698,67.911659 306.37905,45.892479 255.57087,46.238949 c -50.80799,0.34609 -98.89165,23.02352 -131.47618,62.006601"
+     d="M 370.24075,125.29352 C 341.55595,91.912834 299.64037,72.83893 255.62827,73.139056 211.61633,73.438853 169.96432,93.082961 141.73828,126.85168"
      stroke-miterlimit="2.00000000000"
      id="shape3" />
 </svg>

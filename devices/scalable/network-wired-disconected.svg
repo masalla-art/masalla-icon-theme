@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r12662"
-   sodipodi:docname="network-error.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="network-wired-disconected.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,17 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.477675"
-     inkscape:cx="16.278403"
-     inkscape:cy="29.168296"
+     inkscape:zoom="4.0579709"
+     inkscape:cx="51.864276"
+     inkscape:cy="9.7384055"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1">
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3013"
@@ -99,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,6 +109,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:2.61146927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="42.778355"
+       height="42.778355"
+       x="2.6108227"
+       y="1006.973"
+       rx="5.2229385"
+       ry="5.2229385" />
     <rect
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3261"
@@ -135,10 +145,10 @@
        sodipodi:cy="749.63245"
        sodipodi:rx="2.0013857"
        sodipodi:ry="2.0000615"
-       d="m -708.1913,749.63245 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       d="m -708.1913,749.63245 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00138,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,-2.00007 2.0013857,2.0000615 0 0 1 2.00139,2.00007 z"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
     <path
-       d="m -699.1913,744.13245 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       d="m -699.1913,744.13245 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00138,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,-2.00007 2.0013857,2.0000615 0 0 1 2.00139,2.00007 z"
        sodipodi:ry="2.0000615"
        sodipodi:rx="2.0013857"
        sodipodi:cy="744.13245"
@@ -155,7 +165,7 @@
        sodipodi:cy="744.13245"
        sodipodi:rx="2.0013857"
        sodipodi:ry="2.0000615"
-       d="m -717.1913,744.13245 a 2.0013857,2.0000615 0 1 1 0,0 2.0013857,2.0000615 0 1 1 0,0 z"
+       d="m -717.1913,744.13245 a 2.0013857,2.0000615 0 0 1 -2.00139,2.00006 2.0013857,2.0000615 0 0 1 -2.00138,-2.00006 2.0013857,2.0000615 0 0 1 2.00138,-2.00007 2.0013857,2.0000615 0 0 1 2.00139,2.00007 z"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
     <rect
        style="fill:#e74c3c;fill-opacity:1;fill-rule:evenodd;stroke:none"

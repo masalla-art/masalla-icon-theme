@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
    sodipodi:docname="geogebra.svg">
@@ -66,16 +66,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="997"
-     inkscape:window-height="609"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="278.53873"
-     inkscape:cy="162.35301"
-     inkscape:window-x="175"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.65186405"
+     inkscape:cx="23.196696"
+     inkscape:cy="277.07848"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
      width="512"
@@ -86,63 +86,13 @@
      y="0"
      style="fill:#999999" />
   <rect
-     style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
+     style="fill:#4d4d4d;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:22;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect2998"
      width="445.28812"
      height="462.10172"
      x="32"
      y="23.864408"
      ry="50" />
-  <g
-     transform="matrix(14.267276,0,0,14.267276,-88.580186,-79.651884)"
-     id="g35">
-    <g
-       clip-path="url(#clipPath-151811596)"
-       id="g37">
-      <g
-         transform="translate(1,1)"
-         id="g39">
-        <g
-           style="opacity:0.1"
-           id="g41">
-          <!-- color: #eeeeee -->
-          <g
-             id="g43">
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="m 20.801,14.281 c -6.465,2.352 -10.02,8.637 -7.918,14.01 2.105,5.375 9.08,7.832 15.543,5.48 6.461,-2.352 10.02,-8.641 7.914,-14.02 -2.105,-5.375 -9.08,-7.828 -15.543,-5.477 m 0.727,1.848 c 5.266,-1.918 10.891,0.063 12.602,4.434 1.711,4.367 -1.152,9.441 -6.422,11.359 -5.27,1.918 -10.898,-0.066 -12.605,-4.438 -1.711,-4.367 1.156,-9.438 6.426,-11.355 m 0,0"
-               id="path45" />
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 26,14.5 C 26,15.879 24.879,17 23.5,17 22.121,17 21,15.879 21,14.5 21,13.121 22.121,12 23.5,12 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0"
-               id="path47" />
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 37,18.5 C 37,19.879 35.879,21 34.5,21 33.121,21 32,19.879 32,18.5 32,17.121 33.121,16 34.5,16 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0"
-               id="path49" />
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 35,29.5 C 35,30.879 33.879,32 32.5,32 31.121,32 30,30.879 30,29.5 30,28.121 31.121,27 32.5,27 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0"
-               id="path51" />
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 22,33.5 C 22,34.879 20.879,36 19.5,36 18.121,36 17,34.879 17,33.5 17,32.121 18.121,31 19.5,31 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0"
-               id="path53" />
-            <path
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               inkscape:connector-curvature="0"
-               d="M 16,23.5 C 16,24.879 14.879,26 13.5,26 12.121,26 11,24.879 11,23.5 11,22.121 12.121,21 13.5,21 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0"
-               id="path55" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
   <g
      id="g57"
      transform="matrix(14.740113,0,0,14.740113,-105.37853,-97.423727)"

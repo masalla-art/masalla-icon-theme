@@ -25,19 +25,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.8828125"
-     inkscape:cx="26.710577"
+     inkscape:cx="-25.957431"
      inkscape:cy="9.8417925"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="664"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="0,39.000017"
@@ -204,15 +204,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12px;line-height:125%;font-family:KanjiStrokeOrders;-inkscape-font-specification:'KanjiStrokeOrders Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="10.596415"
-       y="30.36141"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.75470924px;line-height:125%;font-family:KanjiStrokeOrders;-inkscape-font-specification:'KanjiStrokeOrders Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="5.4780474"
+       y="31.321915"
        id="text3845"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3847"
-         x="10.596415"
-         y="30.36141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Clean;fill:#ffffff">html</tspan></text>
+         x="5.4780474"
+         y="31.321915"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:KanjiStrokeOrders;-inkscape-font-specification:'KanjiStrokeOrders Bold';fill:#ffffff">HTML</tspan></text>
   </g>
 </svg>

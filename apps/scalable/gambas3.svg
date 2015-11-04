@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gambas.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gambas3.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9172469"
-     inkscape:cx="406.3121"
+     inkscape:cx="183.36231"
      inkscape:cy="225.7467"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -35,7 +35,7 @@
      inkscape:window-width="1191"
      inkscape:window-height="688"
      inkscape:window-x="163"
-     inkscape:window-y="52"
+     inkscape:window-y="40"
      inkscape:window-maximized="0"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
@@ -385,7 +385,7 @@
        id="g4038" />
   </g>
   <rect
-     style="fill:#fda101;fill-opacity:1;stroke:none"
+     style="fill:#fda101;fill-opacity:1;stroke:#7f5101;stroke-opacity:1;stroke-width:17.2;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect3069"
      width="453.28995"
      height="443.18472"

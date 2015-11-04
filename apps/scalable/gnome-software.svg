@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gnome-software.svg">
   <metadata
      id="metadata118">
@@ -33,14 +33,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="701"
      id="namedview116"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-21.239185"
+     inkscape:cx="26.338983"
      inkscape:cy="11.822687"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -127,7 +127,7 @@
     </linearGradient>
   </defs>
   <rect
-     style="fill:#cd9c6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.99781251"
+     style="fill:#cd9c6d;fill-opacity:1;fill-rule:evenodd;stroke:#a76f39;stroke-width:1.698;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect2985"
      width="44.03392"
      height="44.032608"
@@ -136,7 +136,7 @@
      ry="4.9441395" />
   <g
      id="g4396"
-     transform="matrix(1.0680102,0,0,1.0675831,-57.687163,39.741067)">
+     transform="matrix(1.0680102,0,0,1.0675831,-59.314282,38.724118)">
     <path
        style="fill:#527fb2;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0"

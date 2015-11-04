@@ -14,8 +14,8 @@
    height="128"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="distributor-logo-gnome.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="distributor-logo-chakra.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#cbcdd6"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142137"
-     inkscape:cx="159.63217"
+     inkscape:cx="15.028847"
      inkscape:cy="101.96742"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -143,12 +143,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:1;fill:#406291;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#406291;fill-opacity:1;stroke:#508ee6;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect3358"
      width="110"
      height="110"

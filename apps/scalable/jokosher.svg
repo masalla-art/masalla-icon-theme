@@ -14,7 +14,7 @@
    height="100%"
    viewBox="0 0 512 512"
    id="svg2"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="jokosher.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="701"
      id="namedview41"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="256"
+     inkscape:cx="-187.66102"
      inkscape:cy="256"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
@@ -79,16 +79,17 @@
     </clipPath>
   </defs>
   <rect
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:31.53689766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#bf640e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:31.53689766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect3005"
-     width="470.53088"
-     height="470.53091"
-     x="20.73456"
-     y="20.734543"
-     ry="51.886448" />
+     width="479.2088"
+     height="479.20886"
+     x="16.395576"
+     y="16.395561"
+     ry="52.843384" />
   <g
      id="g4171"
-     clip-path="url(#clipPath4175)">
+     clip-path="url(#clipPath4175)"
+     transform="matrix(0.94039644,0,0,0.94039644,15.25851,15.25851)">
     <path
        style="fill:#f68f1b;fill-rule:evenodd"
        id="path25"
@@ -223,7 +224,7 @@
        id="tspan87" />
   </text>
   <path
-     d="m 123.58414,426.72149 c -4.54024,0 -11.18735,-0.4862 -19.9437,-1.45978 -9.080467,-0.9724 -17.51149,-2.75632 -25.29426,-5.35058 l 9.728749,-58.86102 c 4.864359,1.62184 9.40696,2.75632 13.619531,3.40459 3.89197,0.64827 8.91842,0.97241 15.07932,0.97241 11.35061,0 19.29542,-3.4046 23.83569,-10.21494 4.5402,-6.81037 6.81031,-16.70118 6.81031,-29.67715 l 0,-228.444664 72.47824,-16.231412 0,246.624416 c 0,33.72646 -8.2678,58.6966 -24.80336,74.91038 -16.53557,16.21381 -40.37364,24.32187 -71.50581,24.32187"
+     d="m 131.4766,416.54588 c -4.26963,0 -10.52055,-0.45722 -18.75499,-1.37277 -8.53924,-0.91444 -16.467742,-2.59203 -23.786631,-5.03167 l 9.148881,-55.35269 c 4.57443,1.52517 8.84627,2.59203 12.80776,3.20166 3.65999,0.60963 8.38685,0.91445 14.18054,0.91445 10.67407,0 18.14534,-3.20167 22.415,-9.60609 4.26958,-6.40445 6.40439,-15.70573 6.40439,-27.90828 l 0,-214.82855 68.15828,-15.263966 0,231.924726 c 0,31.71624 -7.77501,55.19807 -23.325,70.44545 -15.54999,15.24741 -37.96722,22.8722 -67.24381,22.8722"
      inkscape:connector-curvature="0"
      id="path89"
      style="fill:#ffffff" />

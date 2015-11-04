@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="bluetooth.svg"
    viewBox="0 0 512 512">
   <metadata
@@ -38,38 +38,34 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="711"
+     inkscape:window-height="701"
      id="namedview9"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="0.43457603"
-     inkscape:cx="-94.331351"
-     inkscape:cy="163.83899"
+     inkscape:zoom="0.61458332"
+     inkscape:cx="84.660085"
+     inkscape:cy="304.07977"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-global="false"
      inkscape:document-units="px" />
   <defs
      id="defs4" />
-  <g
-     id="g4142"
-     transform="translate(297.41968,-90.321281)">
-    <rect
-       ry="56.383564"
-       rx="56.383564"
-       y="115.41717"
-       x="-272.32379"
-       height="461.80823"
-       width="461.80823"
-       id="rect4136"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4aaee8;stroke-width:28.191782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       id="shape0"
-       d="m -147.59073,264.61993 79.610545,80.50472 0,0 -79.610545,80.50536 25.31904,25.52175 66.186365,-65.46121 0,153.66905 120.83669,-113.93647 -73.2576695,-80.29848 73.0642295,-80.18679 -119.98719,-111.65479 -0.57083,152.9448 -66.186485,-67.0442 z m 127.955025,-36.05611 36.70339,34.94258 -36.70339,45.26042 z m 0,160.63057 36.78848,37.54869 -36.7034,34.94265 z"
-       inkscape:connector-curvature="0"
-       style="fill:#4aaee8;fill-opacity:1;stroke-width:3.85841036" />
-  </g>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4aaee8;stroke-width:28.191782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="461.80823"
+     height="461.80823"
+     x="25.095888"
+     y="25.095886"
+     rx="56.383564"
+     ry="56.383564" />
+  <path
+     style="fill:#4aaee8;fill-opacity:1;stroke-width:3.85841036"
+     inkscape:connector-curvature="0"
+     d="m 149.82895,174.29865 79.61055,80.50472 0,0 -79.61055,80.50536 25.31904,25.52175 66.18637,-65.46121 0,153.66905 L 362.17105,335.10185 288.91338,254.80337 361.97761,174.61658 241.99042,62.961789 241.41958,215.90659 175.2331,148.86239 Z m 127.95503,-36.05611 36.70338,34.94258 -36.70338,45.26042 z m 0,160.63057 36.78848,37.54869 -36.70341,34.94265 z"
+     id="shape0" />
 </svg>

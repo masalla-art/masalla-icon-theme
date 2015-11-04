@@ -13,7 +13,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="audio-input-line.svg"
    viewBox="0 0 511.99999 511.99999">
   <metadata
@@ -37,60 +37,77 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="716"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      id="namedview15"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.75390625"
-     inkscape:cx="234.08577"
-     inkscape:cy="256"
+     inkscape:zoom="0.26654611"
+     inkscape:cx="-231.49464"
+     inkscape:cy="-13.248551"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      units="px" />
   <defs
      id="defs4" />
   <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
-     y="471.20212"
-     x="130.80034"
-     height="56.539783pt"
-     width="58.242882pt"
-     stroke-miterlimit="2.01260185242"
-     transform="matrix(0.61709597,-0.7868879,0.66295148,0.74866236,0,0)"
-     id="shape0" />
-  <rect
-     style="fill:#f9de69;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;fill-opacity:1"
-     y="204.97307"
-     x="302.17542"
-     height="68.319878pt"
-     width="92.465469pt"
-     stroke-miterlimit="2.00000000000"
-     id="shape3" />
-  <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
-     y="188.89372"
-     x="126.46696"
-     height="94.046021pt"
-     width="140.75809pt"
-     stroke-miterlimit="2.00000000000"
-     id="shape2" />
-  <rect
-     style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
-     y="188.89372"
-     x="335.79443"
-     height="94.046021pt"
-     width="38.938671pt"
-     stroke-miterlimit="2.00000000000"
-     id="shape4" />
-  <rect
-     style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
-     y="161.95419"
-     x="21.000044"
-     height="141.06871pt"
-     width="85.352737pt"
-     stroke-miterlimit="2.01260185242"
-     id="shape1" />
+     ry="47.643871"
+     y="31"
+     x="31"
+     height="450"
+     width="450"
+     id="rect4138-4"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#0093b8;stroke-width:18.72999954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     rx="47.643871" />
+  <g
+     id="g4161"
+     transform="translate(-21.32666,-12.880642)">
+    <rect
+       id="shape0"
+       transform="matrix(-0.84136318,-0.54047017,0.80947803,-0.58715017,0,0)"
+       stroke-miterlimit="2.01260185242"
+       width="63.74382"
+       height="61.192886"
+       x="-314.89984"
+       y="14.976407"
+       style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       id="shape3"
+       stroke-miterlimit="2.00000000000"
+       width="88.632668"
+       height="79.94899"
+       x="-231.12549"
+       y="235.05933"
+       style="fill:#f9de69;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       id="shape2"
+       stroke-miterlimit="2.00000000000"
+       width="134.92349"
+       height="110.05413"
+       x="-365.8656"
+       y="220.0063"
+       style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       id="shape4"
+       stroke-miterlimit="2.00000000000"
+       width="37.324619"
+       height="110.05413"
+       x="-205.34511"
+       y="220.0063"
+       style="fill:#c4cbcf;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       id="shape1"
+       stroke-miterlimit="2.01260185242"
+       width="81.814766"
+       height="165.08081"
+       x="-446.74176"
+       y="194.78625"
+       style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185" />
+  </g>
 </svg>

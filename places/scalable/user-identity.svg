@@ -13,7 +13,7 @@
    height="48"
    id="svg3022"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="user-identity.svg">
   <defs
      id="defs3024" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0171864"
-     inkscape:cx="17.235675"
-     inkscape:cy="-1.0690389"
+     inkscape:zoom="5.6811595"
+     inkscape:cx="13.932738"
+     inkscape:cy="7.7412065"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false">
     <sodipodi:guide
@@ -70,8 +70,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#999999;stroke-width:2.61146927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="42.778355"
+       height="42.778355"
+       x="2.6108227"
+       y="1006.973"
+       rx="5.2229385"
+       ry="5.2229385" />
     <g
-       transform="matrix(0.09421668,0,0,0.09421668,-0.11293733,1004.8783)"
+       transform="matrix(0.0898776,0,0,0.09073426,0.89445639,1007.4736)"
        id="g4144">
       <ellipse
          ry="132.16231"

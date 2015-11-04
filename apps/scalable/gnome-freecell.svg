@@ -15,7 +15,7 @@
    viewBox="0 0 453.54331 453.54331"
    id="svg3423"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gnome-freecell.svg">
   <defs
      id="defs3425">
@@ -69,16 +69,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="315.64543"
+     inkscape:cx="23.502573"
      inkscape:cy="260.96387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="859"
-     inkscape:window-height="639"
-     inkscape:window-x="15"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3428">
     <rdf:RDF>
@@ -97,7 +97,7 @@
      id="layer1"
      transform="translate(0,-598.8189)">
     <rect
-       style="opacity:1;fill:#d40000;fill-opacity:1;stroke:#dc2d2d;stroke-width:2.0736568;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d40000;fill-opacity:1;stroke:#871616;stroke-width:19.874;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3362"
        width="390.27747"
        height="390.27747"

@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3057"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="513"
    height="513"
    sodipodi:docname="guake.svg">
@@ -39,27 +39,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview3059"
      showgrid="false"
      inkscape:zoom="0.46003899"
-     inkscape:cx="-144.55296"
-     inkscape:cy="248.93373"
+     inkscape:cx="-95.357056"
+     inkscape:cy="293.54724"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3057" />
+     inkscape:current-layer="g4229" />
   <g
      id="g4229"
      transform="matrix(0.9301429,0,0,0.9301429,17.918341,17.918342)">
     <rect
-       ry="23.178295"
+       ry="51.222099"
        y="14.601689"
        x="14.60169"
        height="483.79663"
        width="483.79663"
        id="rect4138"
-       style="opacity:1;fill:#71c837;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#71c837;fill-opacity:1;stroke:#5ba02c;stroke-opacity:1;stroke-width:20.13669082;stroke-miterlimit:4;stroke-dasharray:none"
+       rx="51.222099" />
     <g
        transform="matrix(0.93880387,0,0,0.93880387,-26.941269,384.99127)"
        id="g10357">

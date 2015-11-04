@@ -12,7 +12,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="text-x-vcard.svg">
   <metadata
      id="metadata18">
@@ -27,19 +27,6 @@
   </metadata>
   <defs
      id="defs16">
-    <filter
-       height="1.12"
-       y="-0.06"
-       width="1.12"
-       x="-0.06"
-       id="filter4201"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4203"
-         stdDeviation="0.2826087"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath4157"
        clipPathUnits="userSpaceOnUse">
@@ -59,50 +46,43 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="5.7567833"
-     inkscape:cx="14.197955"
+     inkscape:cx="12.592008"
      inkscape:cy="10.639034"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
-     id="g4166">
+     id="g4149">
     <path
-       style="fill:#ece9d8;fill-opacity:1;stroke-width:0.86956519"
        inkscape:connector-curvature="0"
-       id="path4"
-       d="m 9.797669,4.203584 c -0.8944343,0 -1.73913,0.8446957 -1.73913,1.7391304 l 0,36.5217396 c 0,0.844721 0.8944348,1.73913 1.73913,1.73913 l 27.826087,0 c 0.844722,0 1.739131,-0.894435 1.739131,-1.73913 l 0,-26.956522 L 28.058539,4.203584 Z" />
+       id="rect4193-6"
+       d="m 12.867188,2.5917969 c -3.2418681,0 -5.851563,2.6096949 -5.851563,5.8515625 l 0,31.1132816 c 0,3.241867 2.6096949,5.851562 5.851563,5.851562 l 22.265624,0 c 3.241868,0 5.851563,-2.609695 5.851563,-5.851562 l 0,-30.025391 -16.144531,-6.9394531 -11.972656,0 z m 22.865234,0.029297 c 0.39439,0.039811 0.777621,0.1187827 1.144531,0.2324218 C 36.510036,2.7398694 36.126815,2.6609073 35.732422,2.6210938 Z m 1.144531,0.2324218 c 0.550365,0.1704588 1.064441,0.4195284 1.53125,0.734375 -0.466825,-0.3148628 -0.980874,-0.5639057 -1.53125,-0.734375 z m 1.982422,1.0703125 c 0.144388,0.1190607 0.281855,0.246699 0.414063,0.3789062 C 39.140916,4.1701479 39.004141,4.0432016 38.859375,3.9238281 Z"
+       style="opacity:1;fill:#ece9d8;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       transform="translate(-0.28928697,0.20358399)"
-       clip-path="url(#clipPath4157)"
-       style="fill:#000000;fill-opacity:0.39200003;stroke-width:0.86956519;filter:url(#filter4201)"
        inkscape:connector-curvature="0"
-       id="path8-3"
-       d="m 28.248139,4.2710929 11.304348,11.3043481 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.5652171 z" />
-    <path
-       style="fill:#f9f8f2;fill-opacity:1;stroke-width:0.86956519"
-       inkscape:connector-curvature="0"
-       id="path8"
-       d="m 28.058539,4.203584 11.304348,11.304348 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.565217 z" />
+       id="rect4142-00"
+       d="m 40.984375,9.5312499 -16.144531,-6.939453 0,1.087891 c 0,3.241867 2.609695,5.851562 5.851563,5.851562 l 10.292968,0 z"
+       style="opacity:0.68300003;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <text
-     style="font-size:21.79727745px;line-height:125%;font-family:'Ubuntu Mono';letter-spacing:0;word-spacing:0;fill:#000000;stroke-width:0.86956072;fill-opacity:0.35294119;"
+     style="font-size:21.79727745px;line-height:125%;font-family:'Ubuntu Mono';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:0.35294118;stroke-width:0.86956072"
      xml:space="preserve"
      font-size="25.067px"
      transform="scale(1.0006052,0.99939517)"
-     y="32.816525"
-     x="14.209353"
+     y="34.207031"
+     x="12.473323"
      line-height="125%"
      id="text10"
      sodipodi:linespacing="125%"><tspan
-       y="32.816525"
-       x="14.209353"
+       y="34.207031"
+       x="12.473323"
        font-weight="bold"
        id="tspan12"
-       style="font-weight:bold;font-family:'Open Sans';stroke-width:0.86956072;fill:#000000;fill-opacity:0.35294119;">@</tspan></text>
+       style="font-weight:bold;font-family:'Open Sans';fill:#000000;fill-opacity:0.35294118;stroke-width:0.86956072">@</tspan></text>
 </svg>

@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="application-video.svg"
    inkscape:export-filename="/home/afel/Pictures/evos-mockups/personal-app-icons/totem.png"
    inkscape:export-xdpi="360"
@@ -66,19 +66,6 @@
          inkscape:connector-curvature="0"
          style="fill:#f9f8f2;fill-opacity:1;stroke-width:1.00658333" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4201"
-       x="-0.059999999"
-       width="1.12"
-       y="-0.059999999"
-       height="1.12">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.2826087"
-         id="feGaussianBlur4203" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -87,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="15.267206"
-     inkscape:cy="25.88271"
+     inkscape:zoom="5.656854"
+     inkscape:cx="-18.801778"
+     inkscape:cy="25.669964"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -100,9 +87,9 @@
      inkscape:object-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -141,22 +128,15 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       d="m 9.797669,1008.5658 c -0.894434,0 -1.73913,0.8447 -1.73913,1.7391 l 0,36.5217 c 0,0.8448 0.894435,1.7392 1.73913,1.7392 l 27.826087,0 c 0.844722,0 1.739131,-0.8945 1.739131,-1.7392 l 0,-26.9565 -11.304348,-11.3043 z"
-       id="path4-8"
-       inkscape:connector-curvature="0"
-       style="fill:#37abc8;fill-opacity:1;stroke-width:0.86956519" />
+       style="opacity:1;fill:#37abc8;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.867188,1006.954 c -3.2418681,0 -5.851563,2.6097 -5.851563,5.8516 l 0,31.1132 c 0,3.2419 2.6096949,5.8516 5.851563,5.8516 l 22.265624,0 c 3.241868,0 5.851563,-2.6097 5.851563,-5.8516 l 0,-30.0253 -16.144531,-6.9395 -11.972656,0 z m 22.865234,0.029 c 0.39439,0.04 0.777621,0.1188 1.144531,0.2324 -0.366917,-0.1136 -0.750138,-0.1926 -1.144531,-0.2324 z m 1.144531,0.2324 c 0.550365,0.1705 1.064441,0.4195 1.53125,0.7344 -0.466825,-0.3149 -0.980874,-0.5639 -1.53125,-0.7344 z m 1.982422,1.0703 c 0.144388,0.1191 0.281855,0.2467 0.414063,0.3789 -0.132522,-0.1326 -0.269297,-0.2595 -0.414063,-0.3789 z"
+       id="rect4193-6"
+       inkscape:connector-curvature="0" />
     <path
-       d="m 28.248139,4.2710929 11.304348,11.3043481 -9.565218,0 c -0.844721,0 -1.73913,-0.894435 -1.73913,-1.739131 l 0,-9.5652171 z"
-       id="path8-3"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:0.39200003;stroke-width:0.86956519;filter:url(#filter4201)"
-       clip-path="url(#clipPath4157)"
-       transform="translate(-0.289287,1004.5658)" />
-    <path
-       d="m 28.058539,1008.5658 11.304348,11.3043 -9.565218,0 c -0.844721,0 -1.73913,-0.8944 -1.73913,-1.7391 l 0,-9.5652 z"
-       id="path8-2"
-       inkscape:connector-curvature="0"
-       style="opacity:0.61299995;fill:#d7f4ee;fill-opacity:1;stroke-width:0.86956519" />
+       style="opacity:0.68300003;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.30000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 40.984375,1013.8934 -16.144531,-6.9394 0,1.0879 c 0,3.2419 2.609695,5.8515 5.851563,5.8515 l 10.292968,0 z"
+       id="rect4142-00"
+       inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

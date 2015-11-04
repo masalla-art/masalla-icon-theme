@@ -14,7 +14,7 @@
    viewBox="0 0 135.46666 135.46667"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="camera-web.svg">
   <defs
      id="defs4" />
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.4609375"
-     inkscape:cx="256"
+     inkscape:cx="-187.66102"
      inkscape:cy="256"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -54,21 +54,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-161.53332)">
-    <circle
-       r="57.060966"
-       cy="231.76437"
-       cx="67.733337"
-       id="circle4714-3"
-       style="opacity:1;fill:#2d2d2d;fill-opacity:0.6245049;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#4aaee8;stroke-width:7.45907593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="122.18677"
+       height="122.18678"
+       x="6.6399441"
+       y="168.17326"
+       rx="14.918152"
+       ry="14.918153" />
     <circle
        style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4712"
-       cx="67.516983"
-       cy="226.80879"
-       r="48.182671" />
+       cx="67.548264"
+       cy="227.16411"
+       r="41.217087" />
     <circle
-       r="57.060966"
-       cy="226.76894"
+       r="48.811882"
+       cy="227.13002"
        cx="67.733337"
        id="circle4714"
        style="opacity:1;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -76,17 +79,17 @@
        style="opacity:1;fill:#173f7e;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4726"
        cx="67.733337"
-       cy="226.76894"
-       r="46.099796" />
+       cy="227.13002"
+       r="39.435326" />
     <path
        style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
-       d="M 260.22656 105.35742 A 140.79153 140.79153 0 0 0 119.43555 246.14844 A 140.79153 140.79153 0 0 0 260.22656 386.93945 A 140.79153 140.79153 0 0 0 401.01758 246.14844 A 140.79153 140.79153 0 0 0 260.22656 105.35742 z M 262.09961 177.09961 C 299.43337 177.09961 329.69922 207.36546 329.69922 244.69922 C 329.69922 282.03298 299.43337 312.29688 262.09961 312.29688 C 224.76585 312.29688 194.50195 282.03298 194.50195 244.69922 C 194.50195 207.36546 224.76585 177.09961 262.09961 177.09961 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,161.53332)"
-       id="shape5" />
+       d="m 68.689945,195.17119 a 31.865845,31.865845 0 0 0 -31.865726,31.86572 31.865845,31.865845 0 0 0 31.865726,31.86573 31.865845,31.865845 0 0 0 31.865725,-31.86573 31.865845,31.865845 0 0 0 -31.865725,-31.86572 z m 0.423934,16.23766 c 8.449882,0 15.300059,6.85018 15.300059,15.30006 0,8.44988 -6.850177,15.29961 -15.300059,15.29961 -8.449881,0 -15.299617,-6.84973 -15.299617,-15.29961 0,-8.44988 6.849736,-15.30006 15.299617,-15.30006 z"
+       id="shape5"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#bdc3c7;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
        inkscape:connector-curvature="0"
-       d="m 91.229371,215.72388 c 0,-7.21914 -5.85229,-13.07143 -13.07143,-13.07143 -7.21913,0 -13.07126,5.85229 -13.07126,13.07143 0,7.21913 5.85213,13.07126 13.07126,13.07126 7.21914,0 13.07143,-5.85213 13.07143,-13.07126"
+       d="m 87.83264,217.68171 c 0,-6.1755 -5.006247,-11.18175 -11.181744,-11.18175 -6.175488,0 -11.181598,5.00625 -11.181598,11.18175 0,6.17549 5.00611,11.1816 11.181598,11.1816 6.175497,0 11.181744,-5.00611 11.181744,-11.1816"
        stroke-miterlimit="2.00000000000"
        id="shape6" />
   </g>

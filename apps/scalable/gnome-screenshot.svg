@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="512"
    height="512"
-   sodipodi:docname="applets-screenshooter.svg"
+   sodipodi:docname="gnome-screenshot.svg"
    viewBox="0 0 512 512">
   <metadata
      id="metadata8">
@@ -40,19 +40,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.7792969"
-     inkscape:cx="526.65938"
-     inkscape:cy="371.75397"
+     inkscape:zoom="0.55104612"
+     inkscape:cx="109.94017"
+     inkscape:cy="79.650493"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-units="px" />
+  <rect
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#00aad4;stroke-width:27.44249725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="449.53424"
+     height="449.53424"
+     x="31.23288"
+     y="31.23288"
+     rx="54.884995"
+     ry="54.884995" />
   <g
-     transform="translate(-8.3144177e-6,3.4999983)"
+     transform="matrix(0.85046461,0,0,0.85046461,38.759376,41.257683)"
      id="g4168">
     <path
        style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.38373864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -109,15 +118,15 @@
        style="fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <rect
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6.05160093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12.10320164, 12.10320164;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.14667225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:10.29334472, 10.29334472;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4235"
-     width="322.09399"
-     height="212.02892"
-     x="92.101936"
-     y="114.54756" />
+     width="273.92953"
+     height="180.32309"
+     x="117.08882"
+     y="135.69971" />
   <g
      id="g4231"
-     transform="matrix(0.27282218,-0.27282218,-0.27282218,-0.27282218,363.02837,537.99249)"
+     transform="matrix(0.23202561,-0.23202561,-0.23202561,-0.23202561,347.50217,495.82463)"
      style="fill:#333333;fill-opacity:1;stroke:none">
     <path
        style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:7.54062271;stroke-miterlimit:4;stroke-opacity:1;marker-start:none"

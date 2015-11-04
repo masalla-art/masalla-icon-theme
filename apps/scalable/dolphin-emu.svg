@@ -14,7 +14,7 @@
    height="128"
    id="svg13094"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="dolphin-emu.svg">
   <sodipodi:namedview
      id="base"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000002"
-     inkscape:cx="167.4015"
+     inkscape:cx="65.15151"
      inkscape:cy="56.608565"
      inkscape:document-units="px"
      inkscape:current-layer="svg13094"
@@ -745,12 +745,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:1;fill:#437dc6;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#437dc6;fill-opacity:1;stroke:#295389;stroke-width:5.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect3358"
      width="110"
      height="110"

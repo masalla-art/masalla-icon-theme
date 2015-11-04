@@ -11,7 +11,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
    sodipodi:docname="deepin-media-player.svg">
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="1.2291667"
-     inkscape:cx="137.48742"
+     inkscape:cx="-28.885457"
      inkscape:cy="120.61971"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -180,8 +180,8 @@
      inkscape:connector-curvature="0"
      style="fill:#ededed;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <path
-     d="m 52.23794,38.639048 0,50.264379 37.698285,-25.132189 M 64.804035,53.718362 c 6.107122,0.03016 10.042823,5.458712 10.052876,10.052876 0,7.539656 -7.539656,10.052875 -10.052876,10.052875 l 0,-5.026438 c 8.43185,-0.844441 5.674849,-12.24189 -2.513218,-10.052875 l 0,15.079313 -5.026438,0 0,-16.180103 c 0,-1.374731 2.513219,-3.928161 7.539656,-3.928161 m 0,0"
+     d="m 34.543025,15.045828 0,97.450822 73.088115,-48.725412 M 58.90573,44.281074 c 11.840274,0.05847 19.470674,10.58316 19.490164,19.490164 0,14.617622 -14.617621,19.490163 -19.490164,19.490163 l 0,-9.745082 C 75.253106,71.879146 69.907929,49.782171 54.033191,54.026156 l 0,29.235245 -9.745082,0 0,-31.369418 c 0,-2.66528 4.872541,-7.615781 14.617621,-7.615781 m 0,0"
      id="path41"
      inkscape:connector-curvature="0"
-     style="fill:#098deb;fill-rule:nonzero;stroke:none;fill-opacity:1" />
+     style="fill:#098deb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
 </svg>

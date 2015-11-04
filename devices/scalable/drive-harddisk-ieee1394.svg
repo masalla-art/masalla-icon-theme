@@ -18,7 +18,7 @@
    height="512"
    viewBox="0 0 512 512"
    enable-background="new 0 0 1024 1024"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="drive-harddisk-ieee1394.svg">
   <metadata
      id="metadata26">
@@ -42,14 +42,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="716"
+     inkscape:window-height="701"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="0.27624978"
-     inkscape:cx="541.71457"
-     inkscape:cy="-126.26249"
+     inkscape:zoom="0.39067619"
+     inkscape:cx="-8.0974465"
+     inkscape:cy="-22.841829"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="Drive-External" />
   <defs
@@ -78,9 +78,18 @@
          d="m -29.741822,-2.2434505 c -5.059755,0 -9.161698,4.1019422 -9.161698,9.1616977 0,5.0597558 4.101943,9.1616978 9.161698,9.1616978 5.059755,0 9.161698,-4.101942 9.161698,-9.1616978 0,-5.0597555 -4.101943,-9.1616977 -9.161698,-9.1616977 z m 0,6.6630531 c 1.380084,0 2.498645,1.1185602 2.498645,2.4986446 0,1.3800844 -1.118561,2.4986444 -2.498645,2.4986444 -1.380084,0 -2.498645,-1.11856 -2.498645,-2.4986444 0,-1.3800844 1.118561,-2.4986446 2.498645,-2.4986446 z" />
     </clipPath>
   </defs>
+  <rect
+     style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#4aaee8;stroke-width:27.98369217;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeSpeed"
+     id="rect4136"
+     width="458.39954"
+     height="458.39954"
+     x="26.800232"
+     y="26.800232"
+     rx="55.967384"
+     ry="55.967384" />
   <g
      id="g4183"
-     transform="translate(-11.873543,-9.8459587)">
+     transform="matrix(0.70935617,0,0,0.70935617,65.982249,67.420529)">
     <rect
        rx="21.112026"
        ry="21.112026"

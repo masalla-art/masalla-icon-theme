@@ -14,7 +14,7 @@
    height="128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="hugin.svg">
   <defs
      id="defs4">
@@ -49,15 +49,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4663301"
-     inkscape:cx="109.49664"
+     inkscape:cx="50.500528"
      inkscape:cy="60.838663"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -79,13 +79,13 @@
      id="layer1"
      transform="translate(0,-924.3622)">
     <rect
-       style="fill:#000000;fill-opacity:0.01960784;stroke:none"
+       style="fill:#236e81;fill-opacity:1;stroke:none"
        id="rect5263-5"
-       width="117.67631"
-       height="117.67631"
-       x="5.8000183"
-       y="929.46283"
-       ry="16.640781" />
+       width="121.13818"
+       height="121.13818"
+       x="4.0690808"
+       y="927.73187"
+       ry="17.130331" />
     <rect
        ry="15.966157"
        y="931.84875"

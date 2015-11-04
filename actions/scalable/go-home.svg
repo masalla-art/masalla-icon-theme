@@ -12,8 +12,8 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
-   sodipodi:docname="gtk-home.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="go-home.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -37,20 +37,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="701"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="0.921875"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="-21.464721"
+     inkscape:cy="179.65871"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <path
-     style="fill:#25aedf;fill-rule:evenodd;fill-opacity:1"
-     d="M 256 128.015625 C 255.992188 198.703125 198.6875 256 128 256 C 57.3125 256 0.0078125 198.703125 0 128.015625 C -0.0078125 57.316406 57.300781 0 128 0 C 198.699219 0 256.007812 57.316406 256 128.015625 Z "
-     id="path4" />
+  <rect
+     style="fill:#25aedf;fill-opacity:1"
+     id="rect4134"
+     width="244.06779"
+     height="244.06779"
+     x="5.9661026"
+     y="5.9661026"
+     rx="41.342587"
+     ry="41.342587" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

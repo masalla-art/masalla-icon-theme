@@ -14,7 +14,7 @@
    viewBox="0 0 512 512.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="preferences-system-network.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46093751"
-     inkscape:cx="182.72279"
-     inkscape:cy="951.21198"
+     inkscape:zoom="0.921875"
+     inkscape:cx="186.40316"
+     inkscape:cy="214.3975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="959"
-     inkscape:window-height="1024"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(0,-610.5196)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:8.33333302"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#223656;stroke-width:22.433;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4148"
        width="450"
        height="450"

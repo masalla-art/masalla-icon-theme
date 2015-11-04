@@ -14,7 +14,7 @@
    height="128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="isomaster.svg">
   <defs
      id="defs4">
@@ -162,15 +162,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2577821"
-     inkscape:cx="-4.1051291"
+     inkscape:cx="-94.680743"
      inkscape:cy="66.319564"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -198,7 +198,7 @@
      id="layer1"
      transform="translate(0,-924.3622)">
     <rect
-       style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.78781462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:#6bc1ff;stroke-width:4.588;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3005"
        width="116.19428"
        height="116.1943"
