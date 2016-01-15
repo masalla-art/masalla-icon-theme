@@ -1,3 +1,5 @@
+![alt tag](https://github.com/hayderctee/masalla-icon-theme/blob/master/masalla_b.png "Masalla Icon Theme")
+
 masalla-icon-themes
 =================
 en:
@@ -12,12 +14,10 @@ how to install :
 2- choose "masalla icon theme" from your system setting
 
 NOTE:  If you are using KDE desktop then run following commands too:
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
 
 and if you want to move back to other gtk+ desktop (gnome, cinnamon, xfce4, lxde, ....) then run following command:
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
 
 have fun and be free ^^
 ====================================================================================================================================================
@@ -34,11 +34,9 @@ ar:
 2-قم باختيار طقم الايقونات من اعدادات التخصيص الخاصة بنظامك 
 
 ملاحظة : اذا كنت تستخدم واجهة Kde فعليك تنفيذ هذاالامر ايضاً:
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
 و اذا اردت الرجوع الى الواجهات المعتمدة على gtk+ (جنوم, سينامون, اكسفسي4, الكسدي,....) فعليك تنفيذ الاوامر التالية :
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
 
 استمتع وكن حراً ^^
 ====================================================================================================================================================
