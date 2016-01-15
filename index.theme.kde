@@ -6,10 +6,26 @@ Name[en_GB]=masalla
 Comment[ar]=طقم ايقونات مسلّة لسطح مكتب جنوم و سطح مكتب كيدي مستوحى من اخر تصاميم الفلات
 Comment[en_CA]=An icon theme for Gnome Shell (GTK+) and KDE4, the set is inspired by the latest flat design trend.
 Comment[en_GB]=An icon theme for Gnome Shell (GTK+) and KDE4, the set is inspired by the latest flat design trend.
-Inherits=gnome,hicolor,oxygen
+DisplayDepth=32
+Inherits=oxygen,breeze,gnome,hicolor
 
-#Directory list
-Directories=actions/scalable,actions/symbolic,actions/16x16,actions/22x22,actions/24x24,actions/32x32,actions/48x48,apps/scalable,apps/symbolic,apps/16x16,apps/22x22,apps/24x24,apps/32x32,apps/48x48,apps/64x64,apps/96x96,apps/128x128,apps/192x192,apps/256x256,categories/scalable,categories/small,categories/16x16,categories/22x22,categories/24x24,categories/32x32,categories/48x48,categories/64x64,devices/scalable,devices/symbolic,devices/16x16,devices/22x22,devices/24x24,devices/32x32,devices/48x48,devices/64x64,devices/96x96,devices/128x128,devices/256x256,devices/512x512,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,mimetypes/16x16,mimetypes/22x22,mimetypes/24x24,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/96x96,mimetypes/128x128,mimetypes/192x192,mimetypes/256x256,mimetypes/512x512,places/scalable,places/symbolic,places/16x16,places/22x22,places/24x24,places/32x32,places/48x48,places/64x64,places/96x96,places/128x128,places/192x192,places/256x256,places/512x512,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256
+Example=folder
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+#Directory list 
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,apps/16x16,apps/22x22,apps/24x24,apps/48x48,apps/64x64,apps/96x96,apps/128x128,apps/192x192,apps/256x256,apps/512x512,categories/scalable,categories/small,categories/16x16,categories/22x22,categories/24x24,categories/32x32,categories/48x48,categories/64x64,devices/scalable,devices/symbolic,devices/16x16,devices/22x22,devices/24x24,devices/32x32,devices/48x48,devices/64x64,devices/96x96,devices/128x128,devices/256x256,devices/512x512,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,mimetypes/16x16,mimetypes/22x22,mimetypes/24x24,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/96x96,mimetypes/128x128,mimetypes/192x192,mimetypes/256x256,mimetypes/512x512,places/scalable,places/symbolic,places/16x16,places/22x22,places/24x24,places/32x32,places/48x48,places/64x64,places/96x96,places/128x128,places/192x192,places/256x256,places/512x512,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256
 
 [actions/scalable]
 Size=256
@@ -24,31 +40,6 @@ Context=Actions
 Type=Scalable
 MinSize=16
 MaxSize=512
-
-[actions/16x16]
-Size=16
-Context=Actions
-Type=Fixed
-
-[actions/22x22]
-Size=22
-Context=Actions
-Type=Fixed
-
-[actions/24x24]
-Size=24
-Context=Actions
-Type=Fixed
-
-[actions/32x32]
-Size=32
-Context=Actions
-Type=Fixed
-
-[actions/48x48]
-Size=48
-Context=Actions
-Type=Fixed
 
 [apps/scalable]
 Size=512
@@ -79,11 +70,6 @@ Size=24
 Context=Applications
 Type=Fixed
 
-[apps/32x32]
-Size=32
-Context=Applications
-Type=Fixed
-
 [apps/48x48]
 Size=48
 Context=Applications
@@ -106,6 +92,11 @@ Type=Fixed
 
 [apps/256x256]
 Size=256
+Context=Applications
+Type=Fixed
+
+[apps/512x512]
+Size=512
 Context=Applications
 Type=Fixed
 
@@ -293,6 +284,11 @@ Size=128
 Context=Mimetypes
 Type=Fixed
 
+[mimetypes/192x192]
+Size=128
+Context=Mimetypes
+Type=Fixed
+
 [mimetypes/256x256]
 Size=256
 Context=Mimetypes
@@ -355,6 +351,11 @@ Type=Fixed
 
 [places/128x128]
 Size=128
+Context=Places
+Type=Fixed
+
+[places/192x192]
+Size=192
 Context=Places
 Type=Fixed
 
