@@ -3,7 +3,7 @@
 masalla-icon-themes
 =================
 en:
-Masalla-uruk icon theme by eng. hayder majid (hayder ctee) <cteehayder@gmail.com>
+Masalla icon theme by eng. hayder majid (hayder ctee) <cteehayder@gmail.com>
 Theme inspired by the latest flat design trend.
 The name of project  is inspired from Obelisk name (like Obelisk of Hammurabi in History of Iraq) in arabic language.
 Icons are licensed under GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html> 
