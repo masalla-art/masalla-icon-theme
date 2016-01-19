@@ -4,8 +4,8 @@ masalla-icon-themes
 =================
 en:
 Masalla-uruk icon theme by eng. hayder majid (hayder ctee) <cteehayder@gmail.com>
-Theme inspired by the latest flat design trend for Uruk GNU/Linux.
-The name of project  is inspired from Obelisk name (like Obelisk of Hammurabi in History of Iraq) in arabic language and uruk city
+Theme inspired by the latest flat design trend.
+The name of project  is inspired from Obelisk name (like Obelisk of Hammurabi in History of Iraq) in arabic language.
 Icons are licensed under GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html> 
 
 
@@ -20,11 +20,11 @@ and if you want to move back to other gtk+ desktop (gnome, cinnamon, xfce4, lxde
 sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
 
 have fun and be free ^^
-====================================================================================================================================================
+===============================================================================================================================
 ar:
-طقم ايقونات مسلّة-أوروك بواسطة م.حيدر ماجد  <cteehayder@gmail.com>
-ايقونات مستوحاة من اخر تصاميم الفلات لتوزيعة أوروك جنو/لينكس.
-تم استيحاء الاسم من اسم المسلّة من التاريخ العراقي كمسلّة حمورابي من تاريخ العراق واسم مدينة الوركاء
+طقم ايقونات مسلّةبواسطة م.حيدر ماجد  <cteehayder@gmail.com
+ايقونات مستوحاة من اخر تصاميم الفلات 
+تم استيحاء الاسم من اسم المسلّة من التاريخ العراقي كمسلّة حمورابي من تاريخ العراق 
 تم عمل الايقونات تحت رخصة جنو العمومية
   GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html>
 
