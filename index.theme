@@ -9,7 +9,7 @@ Comment[en_CA]=An icon theme for Gnome Shell (GTK+) and KDE4, the set is inspire
 Comment[en_GB]=An icon theme for Gnome Shell (GTK+) and KDE4, the set is inspired by the latest flat design trend.
 Inherits=gnome,hicolor,oxygen
 #Directory list 
-Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,apps/16x16,apps/22x22,apps/24x24,apps/48x48,apps/64x64,apps/96x96,apps/128x128,apps/192x192,apps/256x256,apps/512x512,categories/scalable,categories/small,categories/16x16,categories/22x22,categories/24x24,categories/32x32,categories/48x48,categories/64x64,devices/scalable,devices/symbolic,devices/16x16,devices/22x22,devices/24x24,devices/32x32,devices/48x48,devices/64x64,devices/96x96,devices/128x128,devices/256x256,devices/512x512,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,mimetypes/16x16,mimetypes/22x22,mimetypes/24x24,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/96x96,mimetypes/128x128,mimetypes/192x192,mimetypes/256x256,mimetypes/512x512,places/scalable,places/symbolic,places/16x16,places/22x22,places/24x24,places/32x32,places/48x48,places/64x64,places/96x96,places/128x128,places/192x192,places/256x256,places/512x512,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256
+Directories=actions/scalable,actions/symbolic,apps/scalable,apps/symbolic,apps/16x16,apps/22x22,apps/24x24,apps/32x32,apps/48x48,apps/64x64,apps/96x96,apps/128x128,apps/192x192,apps/256x256,apps/512x512,categories/scalable,categories/small,categories/16x16,categories/22x22,categories/24x24,categories/32x32,categories/48x48,categories/64x64,devices/scalable,devices/symbolic,devices/16x16,devices/22x22,devices/24x24,devices/32x32,devices/48x48,devices/64x64,devices/96x96,devices/128x128,devices/256x256,devices/512x512,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,mimetypes/16x16,mimetypes/22x22,mimetypes/24x24,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/96x96,mimetypes/128x128,mimetypes/192x192,mimetypes/256x256,mimetypes/512x512,places/scalable,places/symbolic,places/16x16,places/22x22,places/24x24,places/32x32,places/48x48,places/64x64,places/96x96,places/128x128,places/192x192,places/256x256,places/512x512,status/scalable,status/16x16,status/22x22,status/24x24,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256
 
 [actions/scalable]
 Size=256
@@ -54,6 +54,11 @@ Size=24
 Context=Applications
 Type=Fixed
 
+[apps/32x32]
+Size=32
+Context=Applications
+Type=Fixed
+
 [apps/48x48]
 Size=48
 Context=Applications
@@ -65,12 +70,17 @@ Context=Applications
 Type=Fixed
 
 [apps/96x96]
-Size=64
+Size=96
 Context=Applications
 Type=Fixed
 
 [apps/128x128]
 Size=128
+Context=Applications
+Type=Fixed
+
+[apps/192x192]
+Size=192
 Context=Applications
 Type=Fixed
 
@@ -171,7 +181,7 @@ Context=Devices
 Type=Fixed
 
 [devices/96x96]
-Size=64
+Size=96
 Context=Devices
 Type=Fixed
 
@@ -185,8 +195,8 @@ Size=256
 Context=Devices
 Type=Fixed
 
-[devices/512x125]
-Size=64
+[devices/512x512]
+Size=512
 Context=Devices
 Type=Fixed
 
@@ -259,7 +269,7 @@ Context=Mimetypes
 Type=Fixed
 
 [mimetypes/96x96]
-Size=64
+Size=96
 Context=Mimetypes
 Type=Fixed
 
@@ -269,7 +279,7 @@ Context=Mimetypes
 Type=Fixed
 
 [mimetypes/192x192]
-Size=128
+Size=192
 Context=Mimetypes
 Type=Fixed
 
@@ -278,8 +288,8 @@ Size=256
 Context=Mimetypes
 Type=Fixed
 
-[mimetypes/512x125]
-Size=64
+[mimetypes/512x512]
+Size=512
 Context=Mimetypes
 Context=Categories
 Type=Fixed
@@ -329,7 +339,7 @@ Context=Places
 Type=Fixed
 
 [places/96x96]
-Size=64
+Size=96
 Context=Places
 Type=Fixed
 
@@ -348,8 +358,8 @@ Size=256
 Context=Places
 Type=Fixed
 
-[places/512x125]
-Size=64
+[places/512x512]
+Size=512
 Context=Places
 Type=Fixed
 
