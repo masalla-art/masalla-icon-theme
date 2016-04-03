@@ -1,9 +1,17 @@
+![alt tag](https://github.com/hayderctee/masalla-icon-theme/blob/master/masalla_b.png "Masalla Icon Theme")
+
 masalla-icon-themes
 =================
 en:
+<<<<<<< HEAD
 Masalla icon theme by hayder majid (hayder ctee) <cteehayder@gmail.com>
 Theme inspired by the latest flat design trend.
 The name of project  is inspired from Obelisk name in arabic language (like Obelisk of Hammurabi in History of Iraq) .
+=======
+Masalla icon theme by eng. hayder majid (hayder ctee) <cteehayder@gmail.com>
+Theme inspired by the latest flat design trend.
+The name of project  is inspired from Obelisk name (like Obelisk of Hammurabi in History of Iraq) in arabic language.
+>>>>>>> 1e404c8aaadb62fad5ce3c6b12e6f43a664fe316
 Icons are licensed under GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html> 
 
 :::How to install ::::
@@ -12,6 +20,7 @@ In debian's distro (like debian, ubuntu, linuxmint, elementary,... etc):
 
 Debian users can download the ".deb" file from this link :
 
+<<<<<<< HEAD
            https://github.com/hayderctee/masalla-icon-theme/releases
 
 and install it by using gdebi (recommended) or any other app like dpkg or software center ... etc.
@@ -38,13 +47,26 @@ NOTE:  If you are using KDE desktop then run the following commands too:
 and if you want to move back to other gtk+ desktop (gnome, cinnamon, xfce4, lxde, ....), then run the following commands:
        sudo rm -rf /usr/share/icons/masalla/index.theme
        sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
+=======
+NOTE:  If you are using KDE desktop then run following commands too:
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+
+and if you want to move back to other gtk+ desktop (gnome, cinnamon, xfce4, lxde, ....) then run following command:
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
+>>>>>>> 1e404c8aaadb62fad5ce3c6b12e6f43a664fe316
 
 have fun and be free ^^
-====================================================================================================================================================
+===============================================================================================================================
 ar:
+<<<<<<< HEAD
 طقم ايقونات مسلّة بواسطة حيدر ماجد  <cteehayder@gmail.com>
 ايقونات مستوحاة من اخر تصاميم الفلات .
 تم استيحاء الاسم من اسم المسلّة من التاريخ العراقي كمسلّة حمورابي من تاريخ العراق .
+=======
+طقم ايقونات مسلّةبواسطة م.حيدر ماجد  <cteehayder@gmail.com
+ايقونات مستوحاة من اخر تصاميم الفلات 
+تم استيحاء الاسم من اسم المسلّة من التاريخ العراقي كمسلّة حمورابي من تاريخ العراق 
+>>>>>>> 1e404c8aaadb62fad5ce3c6b12e6f43a664fe316
 تم عمل الايقونات تحت رخصة جنو العمومية
   GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html>
 
@@ -73,11 +95,9 @@ ar:
 3-قم باختيار طقم الايقونات من اعدادات التخصيص الخاصة بنظامك مثل (tweak tool , unity tweak , lxappearance )
 
 ملاحظة : اذا كنت تستخدم واجهة Kde فعليك تنفيذ هذاالامر ايضاً:
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
 و اذا اردت الرجوع الى الواجهات المعتمدة على gtk+ (جنوم, سينامون, اكسفسي4, الكسدي,....) فعليك تنفيذ الاوامر التالية :
-sudo rm -rf /usr/share/icons/masalla/index.theme
-sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
+sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.kde /usr/share/icons/masalla/index.theme
 
 استمتع وكن حراً ^^
 ====================================================================================================================================================
