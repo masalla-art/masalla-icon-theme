@@ -38,6 +38,7 @@ sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/mas
 and if you want to move back to other gtk+ desktop (gnome, cinnamon, xfce4, lxde, ....) then run following command:
 sudo rm -rf /usr/share/icons/masalla/index.theme && sudo cp /usr/share/icons/masalla/index.theme.back /usr/share/icons/masalla/index.theme
 have fun and be free ^^
+
 طقم ايقونات مسلّة بواسطة حيدر ماجد  <cteehayder@gmail.com>
 ايقونات مستوحاة من اخر تصاميم الفلات .
 تم استيحاء الاسم من اسم المسلّة من التاريخ العراقي كمسلّة حمورابي من تاريخ العراق .
@@ -53,7 +54,7 @@ have fun and be free ^^
 بعد ذلك قم بتثبيت الحزمة باستخدام برنامج (gdebi) "موصى به " او اي برنامج تثبيت اخر مثل dpkg او مركز البرمجيات ... الخ
 التوزيعات الارتشية ( ارتش لينكس , منجارو , انتركوس , .... الخ ) :
 قم بتثبيت الايقونات بكتابة الامر التالي :
- yaourt install masalla-icon-theme
+       yaourt install masalla-icon-theme
 التوزيعات الاخرى :
 قم بتحميل الملف المضغوط من خلال الرابط التالي :
  https://github.com/hayderctee/masalla-icon-theme/releases
