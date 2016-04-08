@@ -19,7 +19,7 @@ In Arch's distro (like Archlinux, Manjaro, Antergos, ... etc):
 
 install it from AUR repo by using this command :
 
-       yaourt install masalla-icon-theme
+       yaourt masalla-icon-theme
 Other distro :
 
 1- Download the ".zip" file from here:
@@ -57,7 +57,7 @@ have fun and be free ^^
 
 قم بتثبيت الايقونات بكتابة الامر التالي :
 
-       yaourt install masalla-icon-theme
+       yaourt masalla-icon-theme
        
 التوزيعات الاخرى 
 :
