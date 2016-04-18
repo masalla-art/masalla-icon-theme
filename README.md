@@ -15,9 +15,9 @@ Debian users can download the ".deb" file from this link :
 
 and install it by using gdebi (recommended) or any other app like dpkg or software center ... etc.
 
-In Arch's distro (like Archlinux, Manjaro, Antergos, ... etc):
+In Arch's distro (like Archlinux, Manjaro, Antergos, ... etc) " thanks to 'Michael Tiebesl' for adding masalla in AUR":
 
-install it from AUR repo by using this command :
+install it from AUR repo by using this command  :
 
        yaourt masalla-icon-theme
 Other distro :
@@ -53,8 +53,7 @@ have fun and be free ^^
      https://github.com/hayderctee/masalla-icon-theme/releases
      
 بعد ذلك قم بتثبيت الحزمة باستخدام برنامج (gdebi) "موصى به " او اي برنامج تثبيت اخر مثل dpkg او مركز البرمجيات ... الخ
-التوزيعات الارتشية ( ارتش لينكس , منجارو , انتركوس , .... الخ ) :
-
+التوزيعات الارتشية ( ارتش لينكس , منجارو , انتركوس , .... الخ )" شكرا جزيلا الى 'Michael Tiebesl' لاضافة لايقونات على مستودعات AUR" :
 قم بتثبيت الايقونات بكتابة الامر التالي :
 
        yaourt masalla-icon-theme
