@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22px" height="22px" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="22" height="22"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style="fill:none;stroke-width:1.411;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.789773 19.292969 L 15.295455 15.554688 L 8.704545 8.921875 M 8.704545 14.988281 L 15.295455 8.359375 L 11.741477 4.707031 " transform="matrix(1.375,0,0,1,-8.25,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.508523 4.875 L 11.596591 19.03125 " transform="matrix(1.375,0,0,1,-8.25,0)"/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<path style="fill:none;stroke-width:1.411;stroke-linecap:round;stroke-linejoin:round;stroke:#4D4D4D;stroke-opacity:1;stroke-miterlimit:4;" d="M 5.789773 18.292969 L 9.295455 14.554688 L 2.704545 7.921875 M 2.704545 13.988281 L 9.295455 7.359375 L 5.741477 3.707031 " transform="matrix(1.375,0,0,1,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:#4D4D4D;stroke-opacity:1;stroke-miterlimit:4;" d="M 5.508523 3.875 L 5.596591 18.03125 " transform="matrix(1.375,0,0,1,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.301961;" d="M 17.875 14 C 16.351562 14 15.125 14.910156 15.125 16.03125 L 15.125 17 C 14.363281 17 13.75 17.445312 13.75 18 L 13.75 21 C 13.75 21.554688 14.363281 22 15.125 22 L 20.625 22 C 21.386719 22 22 21.554688 22 21 L 22 18 C 22 17.445312 21.386719 17 20.625 17 L 20.625 16.03125 C 20.625 14.910156 19.398438 14 17.875 14 Z M 17.875 15 C 18.636719 15 19.25 15.441406 19.25 16 L 19.25 17 L 16.5 17 L 16.5 16 C 16.5 15.441406 17.113281 15 17.875 15 Z M 17.875 15 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#4D4D4D;fill-opacity:1;" d="M 17.875 13 C 16.351562 13 15.125 13.910156 15.125 15.03125 L 15.125 16 C 14.363281 16 13.75 16.445312 13.75 17 L 13.75 20 C 13.75 20.554688 14.363281 21 15.125 21 L 20.625 21 C 21.386719 21 22 20.554688 22 20 L 22 17 C 22 16.445312 21.386719 16 20.625 16 L 20.625 15.03125 C 20.625 13.910156 19.398438 13 17.875 13 Z M 17.875 14 C 18.636719 14 19.25 14.441406 19.25 15 L 19.25 16 L 16.5 16 L 16.5 15 C 16.5 14.441406 17.113281 14 17.875 14 Z M 17.875 14 "/>
+</g>
+</svg>

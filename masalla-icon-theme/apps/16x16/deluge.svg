@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image9" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAUklEQVQ4jWNgGGjAiC6wlI1NDZdiPQaG/7q/ft1GFmNBV2T/928MLgPkGRj+MDAwNCGLMRHlTjxg1IBRAxgYsKTEg8zMS/Co/8fw9y+ldlIZAAAp2A2xh9cIwwAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image9"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="16" height="16"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 7.933594 2.703125 C 6.71875 4.359375 2.597656 9.03125 4.351562 11.726562 C 5.710938 13.816406 10.332031 13.824219 11.671875 11.726562 C 13.421875 8.996094 8.964844 4.359375 7.933594 2.703125 M 7.933594 2.703125 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 7.519531 6.128906 C 5.140625 6.28125 4.328125 9.738281 5.238281 11.3125 C 6.246094 12.859375 9.144531 13.179688 10.945312 12.28125 C 10.628906 11.945312 10.191406 11.601562 9.617188 11.453125 C 8.335938 11.121094 6.417969 9.136719 7.378906 7.8125 C 8.34375 6.488281 9.9375 7.8125 9.9375 7.8125 C 9.9375 7.8125 9.617188 6.488281 8.015625 6.15625 C 7.914062 6.136719 7.800781 6.132812 7.699219 6.128906 C 7.632812 6.125 7.585938 6.125 7.519531 6.128906 M 7.519531 6.128906 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(21.568627%,44.313725%,78.431373%);fill-opacity:1;stroke-width:1.923439;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(29.019608%,68.235294%,90.980392%);stroke-opacity:1;stroke-miterlimit:4;" d="M -31.963183 377.577853 L -8.15068 377.577853 C -6.025194 377.577853 -4.305402 379.297645 -4.305402 381.423132 L -4.305402 405.235634 C -4.305402 407.36112 -6.025194 409.080912 -8.15068 409.080912 L -31.963183 409.080912 C -34.088669 409.080912 -35.808461 407.36112 -35.808461 405.235634 L -35.808461 381.423132 C -35.808461 379.297645 -34.088669 377.577853 -31.963183 377.577853 Z M -31.963183 377.577853 " transform="matrix(0.442913,0,0,0.442913,16.883483,-166.210832)"/>
+<use xlink:href="#surface11" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(92.54902%,94.117647%,94.509804%);fill-opacity:1;" d="M 7.027344 6.910156 L 7.027344 9.730469 L 6.472656 9.730469 L 8 11.671875 L 9.527344 9.730469 L 8.972656 9.730469 L 8.972656 6.910156 Z M 7.027344 6.910156 "/>
+</g>
+</svg>

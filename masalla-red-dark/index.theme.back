@@ -1,0 +1,28 @@
+[Icon Theme]
+Name=masalla-red-dark
+Name[ar]=مسلّة-احمر-مظلم
+Name[en_CA]=masalla-red-dark
+Name[en_GB]=masalla-red-dark
+Comment=An icon theme for Gnome Shell, the set is inspired by the latest flat design trend.
+Comment[ar]=طقم ايقونات مسلّة لسطح مكتب جنوم و سطح مكتب كيدي مستوحى من اخر تصاميم الفلات
+Comment[en_CA]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
+Comment[en_GB]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
+Inherits=masalla-red
+#Directory list 
+Directories=status/16x16,status/16x16,status/16x16
+
+[status/16x16]
+Size=16
+Context=Devices
+Type=Fixed
+
+[status/22x22]
+Size=22
+Context=Devices
+Type=Fixed
+
+[status/24x24]
+Size=24
+Context=Devices
+Type=Fixed
+

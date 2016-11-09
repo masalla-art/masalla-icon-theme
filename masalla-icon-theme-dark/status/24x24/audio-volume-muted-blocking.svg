@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.301961;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="24" height="24"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 8.996094 7 L 5.996094 10 L 5.996094 16 L 8.996094 19 L 9 15 L 11 13 L 9 11 Z M 8.996094 7 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 3 10 C 2.476562 10 2 10.5 2 11 L 2 15 C 2 15.578125 2.433594 16 3 16 L 6.996094 16 L 6.996094 10 Z M 3 10 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333333%,80.392157%,93.72549%);fill-opacity:1;" d="M 9 6 L 5.996094 9 L 5.996094 15 L 9 18 L 9 14 L 11 12 L 9 10 Z M 9 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333333%,80.392157%,93.72549%);fill-opacity:1;" d="M 3 9 C 2.476562 9 2 9.5 2 10 L 2 14 C 2 14.578125 2.433594 15 3 15 L 6.996094 15 L 6.996094 9 Z M 3 9 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.301961;" d="M 13.492188 8 L 12 9.492188 L 15.507812 13 L 12 16.507812 L 13.492188 18 L 17 14.492188 L 20.507812 18 L 22 16.507812 L 18.492188 13 L 22 9.492188 L 20.507812 8 L 17 11.507812 Z M 13.492188 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333333%,80.392157%,93.72549%);fill-opacity:1;" d="M 13.492188 7 L 12 8.492188 L 15.507812 12 L 12 15.507812 L 13.492188 17 L 17 13.492188 L 20.507812 17 L 22 15.507812 L 18.492188 12 L 22 8.492188 L 20.507812 7 L 17 10.507812 Z M 13.492188 7 "/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<!-- color: #54d160 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96px" height="96px" viewBox="0 0 96 96" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 18 18 L 78 18 L 78 78 L 18 78 Z M 18 18 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 94 48 C 94 73.414062 73.390625 94 48 94 C 22.609375 94 2 73.414062 2 48 C 2 22.585938 22.609375 2 48 2 C 73.390625 2 94 22.585938 94 48 Z M 94 48 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(31.764706%,81.568627%,36.470588%);fill-opacity:1;stroke-width:2.641764;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(41.176471%,69.019608%,43.529412%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.646484 2.363281 L 40.353514 2.363281 C 43.271483 2.363281 45.636717 4.728515 45.636717 7.646484 L 45.636717 40.353514 C 45.636717 43.271483 43.271483 45.636717 40.353514 45.636717 L 7.646484 45.636717 C 4.728515 45.636717 2.363281 43.271483 2.363281 40.353514 L 2.363281 7.646484 C 2.363281 4.728515 4.728515 2.363281 7.646484 2.363281 Z M 7.646484 2.363281 " transform="matrix(2,0,0,2,0,0)"/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(97.647059%,97.647059%,97.647059%);fill-opacity:1;" d="M 48 18 C 31.429688 18 18 31.429688 18 48 C 18 64.570312 31.429688 78 48 78 C 64.570312 78 78 64.570312 78 48 C 78 31.429688 64.570312 18 48 18 M 66 28 L 72 34 L 40 68 L 24 52 L 30 46 L 40 56 M 66 28 "/>
+</g>
+</g>
+</g>
+</svg>

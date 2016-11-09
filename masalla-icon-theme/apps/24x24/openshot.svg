@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(17.254902%,24.313725%,31.372549%);fill-opacity:1;" d="M 2 2 L 2 22 L 22 22 L 22 2 Z M 3.5 3.5 L 5 3.5 L 5 5 L 3.5 5 Z M 19 3.5 L 20.5 3.5 L 20.5 5 L 19 5 Z M 3.5 7.25 L 5 7.25 L 5 8.75 L 3.5 8.75 Z M 19 7.25 L 20.5 7.25 L 20.5 8.75 L 19 8.75 Z M 3.5 11.25 L 5 11.25 L 5 12.75 L 3.5 12.75 Z M 19 11.25 L 20.5 11.25 L 20.5 12.75 L 19 12.75 Z M 3.5 15.25 L 5 15.25 L 5 16.75 L 3.5 16.75 Z M 19 15.25 L 20.5 15.25 L 20.5 16.75 L 19 16.75 Z M 3.5 19 L 5 19 L 5 20.5 L 3.5 20.5 Z M 19 19 L 20.5 19 L 20.5 20.5 L 19 20.5 Z M 19 19 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 6.5 3.5 L 17.5 3.5 L 17.5 7.5 L 6.5 7.5 Z M 6.5 3.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 6.5 16.5 L 17.5 16.5 L 17.5 20.5 L 6.5 20.5 Z M 6.5 16.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 6.5 8.5 L 17.5 8.5 L 17.5 15.5 L 6.5 15.5 Z M 6.5 8.5 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(92.54902%,94.117647%,94.509804%);fill-opacity:1;" d="M 9.984375 14.75 L 14.015625 12 L 9.984375 9.25 Z M 9.984375 14.75 "/>
+</g>
+</svg>

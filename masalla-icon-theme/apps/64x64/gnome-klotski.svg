@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 64 64" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:2.627763;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(16.862745%,65.882353%,92.156863%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.734375 1006.840684 L 40.268553 1006.840684 C 43.168944 1006.840684 45.521483 1009.193223 45.521483 1012.096543 L 45.521483 1044.630722 C 45.521483 1047.531113 43.168944 1049.883652 40.268553 1049.883652 L 7.734375 1049.883652 C 4.831055 1049.883652 2.478516 1047.531113 2.478516 1044.630722 L 2.478516 1012.096543 C 2.478516 1009.193223 4.831055 1006.840684 7.734375 1006.840684 Z M 7.734375 1006.840684 " transform="matrix(1.333333,0,0,1.333333,0,-1339.1496)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,0%);fill-opacity:1;" d="M 7.285156 32.128906 L 31.875 32.128906 L 31.875 56.71875 L 7.285156 56.71875 Z M 7.285156 32.128906 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,66.666667%,83.137255%);fill-opacity:1;" d="M 15.148438 15.148438 L 25.542969 15.148438 L 25.542969 25.542969 L 15.148438 25.542969 Z M 15.148438 15.148438 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,83.137255%,16.470588%);fill-opacity:1;" d="M 10.429688 35.277344 L 28.726562 35.277344 L 28.726562 53.570312 L 10.429688 53.570312 Z M 10.429688 35.277344 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,66.666667%,83.137255%);fill-opacity:1;" d="M 37.386719 37.65625 L 47.777344 37.65625 L 47.777344 48.050781 L 37.386719 48.050781 Z M 37.386719 37.65625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,0%);fill-opacity:1;" d="M 31.941406 7.5625 L 56.53125 7.5625 L 56.53125 32.152344 L 31.941406 32.152344 Z M 31.941406 7.5625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,83.137255%,16.470588%);fill-opacity:1;" d="M 35.089844 10.707031 L 53.386719 10.707031 L 53.386719 29.003906 L 35.089844 29.003906 Z M 35.089844 10.707031 "/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="0 0 128 128" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:2.571234;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(20.392157%,59.607843%,85.882353%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8.083008 2.939941 L 39.916991 2.939941 C 42.757323 2.939941 45.060057 5.242676 45.060057 8.083008 L 45.060057 39.916991 C 45.060057 42.757323 42.757323 45.060057 39.916991 45.060057 L 8.083008 45.060057 C 5.242676 45.060057 2.939941 42.757323 2.939941 39.916991 L 2.939941 8.083008 C 2.939941 5.242676 5.242676 2.939941 8.083008 2.939941 Z M 8.083008 2.939941 " transform="matrix(2.666667,0,0,2.666667,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 28.925781 56.984375 L 99.074219 56.984375 L 99.074219 71.015625 L 28.925781 71.015625 Z M 28.925781 56.984375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 28.925781 28.925781 L 99.074219 28.925781 L 99.074219 42.957031 L 28.925781 42.957031 Z M 28.925781 28.925781 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(20.392157%,59.607843%,85.882353%);fill-opacity:1;" d="M 28.925781 85.042969 L 99.074219 85.042969 L 99.074219 99.074219 L 28.925781 99.074219 Z M 28.925781 85.042969 "/>
+</g>
+</svg>

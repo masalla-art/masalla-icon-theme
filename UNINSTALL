@@ -1,0 +1,57 @@
+#!/bin/bash
+# Uninstall script for masalla icon themes 
+# Written by Written by Hayder Majid(Hayder Ctee) <hayder@riseup.net> (thanks to Tiheum for writting his script :-) (matthieu.james@gmail.com) )
+
+ROOT_UID=0
+if [ "$UID" -ne "$ROOT_UID" ]
+then
+	echo "masalla icon themes installed in $HOME/.icons will be removed."
+else
+	echo "masalla icon themes installed in /usr/share/icons will be removed. According to your choices during installation, some default icons will be restored."
+fi
+read -p "Do you want to continue ? [Y]es, [N]o : " response
+case $response in
+	[Yy]* ) ;;
+    [Nn]* ) exit 99;;
+    * ) echo "Wrong value: uninstall aborted."; exit 1;;
+esac
+
+if [ "$UID" -eq "$ROOT_UID" ]
+then
+	rm -Rf /usr/share/icons/masalla-icon-theme
+	rm -Rf /usr/share/icons/masalla-icon-theme-dark
+	rm -Rf /usr/share/icons/masalla-red
+	rm -Rf /usr/share/icons/masalla-red-dark
+	rm -Rf /usr/share/icons/masalla-yellow
+	rm -Rf /usr/share/icons/masalla-yellow-dark
+	rm -Rf /usr/share/icons/masalla-grey
+	rm -Rf /usr/share/icons/masalla-grey-dark
+	rm -Rf /usr/share/icons/masalla-green
+	rm -Rf /usr/share/icons/masalla-green-dark
+	rm -Rf /usr/share/icons/masalla-violet
+	rm -Rf /usr/share/icons/masalla-violet-dark
+	rm -Rf /usr/share/icons/masalla-brown
+	rm -Rf /usr/share/icons/masalla-brown-dark
+	rm -Rf /usr/share/icons/masalla-black
+	rm -Rf /usr/share/icons/masalla-black-dark
+else
+	rm -Rf $HOME/.icons/masalla-icon-theme
+	rm -Rf $HOME/.icons/masalla-icon-theme-dark
+	rm -Rf $HOME/.icons/masalla-red
+	rm -Rf $HOME/.icons/masalla-red-dark
+	rm -Rf $HOME/.icons/masalla-yellow
+	rm -Rf $HOME/.icons/masalla-yellow-dark
+	rm -Rf $HOME/.icons/masalla-grey
+	rm -Rf $HOME/.icons/masalla-grey-dark
+	rm -Rf $HOME/.icons/masalla-green
+	rm -Rf $HOME/.icons/masalla-green-dark
+	rm -Rf $HOME/.icons/masalla-violet
+	rm -Rf $HOME/.icons/masalla-violet-dark
+	rm -Rf $HOME/.icons/masalla-brown
+	rm -Rf $HOME/.icons/masalla-brown-dark
+	rm -Rf $HOME/.icons/masalla-black
+	rm -Rf $HOME/.icons/masalla-black-dark
+fi
+
+echo "Uninstall complete. Bey :-("
+exit 0

@@ -1,0 +1,43 @@
+[Icon Theme]
+Name=masalla-yellow-dark
+Name[ar]=مسلّة-اصفر-مظلم
+Name[en_CA]=masalla-yellow-dark
+Name[en_GB]=masalla-yellow-dark
+Comment=An icon theme for Gnome Shell, the set is inspired by the latest flat design trend.
+Comment[ar]=طقم ايقونات مسلّة لسطح مكتب جنوم و سطح مكتب كيدي مستوحى من اخر تصاميم الفلات
+Comment[en_CA]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
+Comment[en_GB]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
+Inherits=masalla-yellow
+Example=folder
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
+#Directory list 
+#Directory list 
+Directories=status/16x16,status/16x16,status/16x16
+
+[status/16x16]
+Size=16
+Context=Devices
+Type=Fixed
+
+[status/22x22]
+Size=22
+Context=Devices
+Type=Fixed
+
+[status/24x24]
+Size=24
+Context=Devices
+Type=Fixed

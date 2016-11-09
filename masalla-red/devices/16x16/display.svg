@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:28.191782;stroke-linecap:butt;stroke-linejoin:miter;stroke:#FF5555;stroke-opacity:1;stroke-miterlimit:4;" d="M 81.5 25.125 L 430.5 25.125 C 461.625 25.125 486.875 50.375 486.875 81.5 L 486.875 430.5 C 486.875 461.625 461.625 486.875 430.5 486.875 L 81.5 486.875 C 50.375 486.875 25.125 461.625 25.125 430.5 L 25.125 81.5 C 25.125 50.375 50.375 25.125 81.5 25.125 Z M 81.5 25.125 " transform="matrix(0.03125,0,0,0.03125,0,0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(50.196078%,50.196078%,50.196078%);fill-opacity:1;" d="M 7.046875 12.511719 L 5.527344 13.507812 L 10.46875 13.507812 L 8.949219 12.511719 Z M 7.046875 12.511719 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(50.196078%,50.196078%,50.196078%);fill-opacity:1;" d="M 7.046875 12.207031 L 5.527344 13.207031 L 10.46875 13.207031 L 8.949219 12.207031 Z M 7.046875 12.207031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 6.941406 10.378906 L 9.058594 10.378906 L 9.058594 12.730469 L 6.941406 12.730469 Z M 6.941406 10.378906 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(50.196078%,50.196078%,50.196078%);fill-opacity:1;" d="M 2.753906 2.492188 L 13.246094 2.492188 C 13.613281 2.492188 13.914062 2.777344 13.914062 3.128906 L 13.914062 10.476562 C 13.914062 10.828125 13.613281 11.113281 13.246094 11.113281 L 2.753906 11.113281 C 2.386719 11.113281 2.085938 10.828125 2.085938 10.476562 L 2.085938 3.128906 C 2.085938 2.777344 2.386719 2.492188 2.753906 2.492188 Z M 2.753906 2.492188 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#FF5555;fill-opacity:1;" d="M 3.195312 3.300781 L 12.804688 3.300781 L 12.804688 10.304688 L 3.195312 10.304688 Z M 3.195312 3.300781 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 5.527344 13.207031 L 5.527344 13.507812 L 10.472656 13.507812 L 10.472656 13.207031 Z M 5.527344 13.207031 "/>
+</g>
+</svg>
