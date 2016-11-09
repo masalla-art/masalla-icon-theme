@@ -1,3 +1,5 @@
+![alt tag](https://github.com/hayderctee/masalla-icon-theme/blob/master/masalla_b.png "Masalla Icon Theme")
+
 masalla-icon-themes
 Masalla icon theme by hayder majid (hayder ctee) <cteehayder@gmail.com>
 Theme inspired by the latest flat design trend.
@@ -7,6 +9,7 @@ This project is part from URUK project <https://urukproject.org> , all icons are
 How to install:
 
 (NOTE: if you use KDE, you should install icons as root)
+
 1- Download the ".tar.gz" file from here:
         https://github.com/hayderctee/masalla-icon-theme/releases
 and extract it.
