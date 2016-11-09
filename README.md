@@ -16,6 +16,7 @@ and extract it.
 
 2- You can simply install icon theme by running "INSTALL" script to make them available for local users, 
 OR run this script as root to make them available for all users, then choose "masalla icon theme" from your system setting (tweak tool , unity tweak , lxappearance ,....etc)
+
 3- choose "masalla icon theme" from your system setting (tweak tool , unity tweak , lxappearance ,....etc)
 
 4- To remove theme, run "UNINSTALL" script.
