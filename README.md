@@ -1,5 +1,3 @@
-![alt tag](https://github.com/hayderctee/masalla-icon-theme/blob/master/masalla_b.png "Masalla Icon Theme")
-
 masalla-icon-themes
 Masalla icon theme by hayder majid (hayder ctee) <cteehayder@gmail.com>
 Theme inspired by the latest flat design trend.
