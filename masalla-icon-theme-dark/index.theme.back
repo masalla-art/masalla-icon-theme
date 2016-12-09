@@ -7,7 +7,7 @@ Comment=An icon theme for Gnome Shell, the set is inspired by the latest flat de
 Comment[ar]=طقم ايقونات مسلّة لسطح مكتب جنوم و سطح مكتب كيدي مستوحى من اخر تصاميم الفلات
 Comment[en_CA]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
 Comment[en_GB]=An icon theme for Gnome Shell (GTK+) and KDE, the set is inspired by the latest flat design trend.
-Inherits=masalla,masalla-uruk
+Inherits=masalla,masalla-uruk,masalla-icon-theme
 #Directory list 
 Directories=status/16x16,status/16x16,status/16x16
 

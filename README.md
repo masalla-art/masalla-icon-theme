@@ -1,10 +1,12 @@
 masalla-icon-themes
-Masalla icon theme by hayder majid (hayder ctee) <cteehayder@gmail.com>
+Masalla icon theme by hayder majid (hayder ctee) <hayder@riseup.net>
 Theme inspired by the latest flat design trend.
 The name of project  is inspired from Obelisk name in arabic language (like Obelisk of Hammurabi in History of Iraq) .
 This project is part from URUK project <https://urukproject.org> , all icons are licensed under GPL-3.0+ License <http://www.gnu.org/licenses/gpl-3.0.html> 
 
 How to install:
+
+
 
 (NOTE: if you use KDE, you should install icons as root)
 1- Download the ".tar.gz" file from here:
