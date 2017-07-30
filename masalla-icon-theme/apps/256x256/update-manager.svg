@@ -1,7 +1,62 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 256 256" version="1.1">
-<g id="surface1">
-<path style="fill-rule:nonzero;fill:rgb(10.196078%,73.72549%,61.176471%);fill-opacity:1;stroke-width:28.636707;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 78.726552 631.972701 L 433.273428 631.972701 C 464.90624 631.972701 490.546865 657.613326 490.546865 689.246139 L 490.546865 1043.793014 C 490.546865 1075.425826 464.90624 1101.066451 433.273428 1101.066451 L 78.726552 1101.066451 C 47.09374 1101.066451 21.453115 1075.425826 21.453115 1043.793014 L 21.453115 689.246139 C 21.453115 657.613326 47.09374 631.972701 78.726552 631.972701 Z M 78.726552 631.972701 " transform="matrix(0.5,0,0,0.5,0.000005,-305.259788)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(13.333333%,21.176471%,33.72549%);fill-opacity:1;" d="M 128 65.5 C 93.375 65.5 65.5 93.375 65.5 128 C 65.5 162.625 93.375 190.5 128 190.5 C 162.625 190.5 190.5 162.625 190.5 128 C 190.5 93.375 162.625 65.5 128 65.5 Z M 128 78 C 155.699219 78 178 100.296875 178 128 C 178 155.699219 155.699219 178 128 178 C 100.300781 178 78 155.699219 78 128 C 78 100.296875 100.300781 78 128 78 Z M 128 98.835938 L 98.835938 128 L 115.5 128 L 115.5 157.164062 L 140.5 157.164062 L 140.5 128 L 157.164062 128 Z M 128 98.835938 "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="update-manager.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="724"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="surface1">
+    <path
+       style="fill-rule:nonzero;fill:rgb(10.196078%,73.72549%,61.176471%);fill-opacity:1;stroke-width:28.636707;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;"
+       d="M 78.726552 631.972701 L 433.273428 631.972701 C 464.90624 631.972701 490.546865 657.613326 490.546865 689.246139 L 490.546865 1043.793014 C 490.546865 1075.425826 464.90624 1101.066451 433.273428 1101.066451 L 78.726552 1101.066451 C 47.09374 1101.066451 21.453115 1075.425826 21.453115 1043.793014 L 21.453115 689.246139 C 21.453115 657.613326 47.09374 631.972701 78.726552 631.972701 Z M 78.726552 631.972701 "
+       transform="matrix(0.5,0,0,0.5,0.000005,-305.259788)"
+       id="path5" />
+    <path
+       style=" stroke:none;fill-rule:nonzero;fill:rgb(13.333333%,21.176471%,33.72549%);fill-opacity:1;"
+       d="M 128 65.5 C 93.375 65.5 65.5 93.375 65.5 128 C 65.5 162.625 93.375 190.5 128 190.5 C 162.625 190.5 190.5 162.625 190.5 128 C 190.5 93.375 162.625 65.5 128 65.5 Z M 128 78 C 155.699219 78 178 100.296875 178 128 C 178 155.699219 155.699219 178 128 178 C 100.300781 178 78 155.699219 78 128 C 78 100.296875 100.300781 78 128 78 Z M 128 98.835938 L 98.835938 128 L 115.5 128 L 115.5 157.164062 L 140.5 157.164062 L 140.5 128 L 157.164062 128 Z M 128 98.835938 "
+       id="path7" />
+  </g>
 </svg>

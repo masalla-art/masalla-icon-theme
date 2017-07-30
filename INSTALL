@@ -1,6 +1,6 @@
 #!/bin/bash
 # install script for masalla icon themes 
-# Written by Written by Hayder Majid(Hayder Ctee) <hayder@riseup.net> (thanks to Tiheum for writting his script :-) (matthieu.james@gmail.com) )
+# Written by Hayder Majid (Hayder Ctee) <hayder@riseup.net> (thanks to Tiheum for writting his script :-) (matthieu.james@gmail.com) )
 
 ROOT_UID=0
 if [ "$UID" -ne "$ROOT_UID" ]
@@ -24,13 +24,7 @@ read -p "What distributor logo would you use ? [A]rchlinux, [D]ebian, [f]edora, 
 distro="${input:-$distro}"
 case $distro in
 	[Aa]* ) distributor="archlinux";;
-	[Dd]* ) 
-		distributor="debian"
-		cd ./masalla-icon-theme/apps/scalable/ && ln -sf ./softwarecenter-$distributor.svg softwarecenter.svg && cd ../../..
-		for size in 48x48 24x24 22x22; do
-			cd ./masalla-icon-theme/apps/48/ && ln -sf ./softwarecenter-$distributor.svg softwarecenter.png && cd ../../..
-		done
-		;;
+	[Dd]* ) distributor="debian";;
     [f]* ) distributor="fedora";;
     [F]* ) distributor="frugalware";;
     [Gg]* ) distributor="gentoo";;
@@ -73,39 +67,39 @@ then
 	./CLEAN
 	cp -R ./masalla-icon-theme/ /usr/share/icons/
 	cp -R ./masalla-icon-theme-dark/ /usr/share/icons/
-	cp -R ./masalla-red/ /usr/share/icons/
-	cp -R ./masalla-red-dark/ /usr/share/icons/
-	cp -R ./masalla-yellow/ /usr/share/icons/
-	cp -R ./masalla-yellow-dark/ /usr/share/icons/
-	cp -R ./masalla-grey/ /usr/share/icons/
-	cp -R ./masalla-grey-dark/ /usr/share/icons/
-	cp -R ./masalla-green/ /usr/share/icons/
-	cp -R ./masalla-green-dark/ /usr/share/icons/
-	cp -R ./masalla-violet/ /usr/share/icons/
-	cp -R ./masalla-violet-dark/ /usr/share/icons/
-	cp -R ./masalla-brown/ /usr/share/icons/
-	cp -R ./masalla-brown-dark/ /usr/share/icons/
-	cp -R ./masalla-black/ /usr/share/icons/
-	cp -R ./masalla-black-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-red/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-red-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-yellow/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-yellow-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-grey/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-grey-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-green/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-green-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-violet/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-violet-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-brown/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-brown-dark/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-black/ /usr/share/icons/
+	cp -R ./masalla-colors/masalla-black-dark/ /usr/share/icons/
 	install_dir=/usr/share/icons/
 else
 	./CLEAN
 	cp -R ./masalla-icon-theme/ $HOME/.icons/
 	cp -R ./masalla-icon-theme-dark/ $HOME/.icons/
-	cp -R ./masalla-red/ $HOME/.icons/
-	cp -R ./masalla-red-dark/ $HOME/.icons/
-	cp -R ./masalla-yellow/ $HOME/.icons/
-	cp -R ./masalla-yellow-dark/ $HOME/.icons/
-	cp -R ./masalla-grey/ $HOME/.icons/
-	cp -R ./masalla-grey-dark/ $HOME/.icons/
-	cp -R ./masalla-green/ $HOME/.icons/
-	cp -R ./masalla-green-dark/ $HOME/.icons/
-	cp -R ./masalla-violet/ $HOME/.icons/
-	cp -R ./masalla-violet-dark/ $HOME/.icons/
-	cp -R ./masalla-brown/ $HOME/.icons/
-	cp -R ./masalla-brown-dark/ $HOME/.icons/
-	cp -R ./masalla-black/ $HOME/.icons/
-	cp -R ./masalla-black-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-red/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-red-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-yellow/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-yellow-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-grey/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-grey-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-green/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-green-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-violet/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-violet-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-brown/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-brown-dark/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-black/ $HOME/.icons/
+	cp -R ./masalla-colors/masalla-black-dark/ $HOME/.icons/
 	install_dir=$HOME/.icons/
 fi
 
