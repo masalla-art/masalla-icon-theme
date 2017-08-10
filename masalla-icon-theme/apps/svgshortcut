@@ -1,8 +1,0 @@
-#!/bin/bash
-fsc="$1"
-ssc="$2"
-for i in scalable/ 512x512/ 256x256/ 128x128/ 96x96/ 64x64/ 48x48/ 24x24/ 22x22/ 16x16/
-do
-    ( cd $i && ln -sf $fsc $ssc )
-done
-
