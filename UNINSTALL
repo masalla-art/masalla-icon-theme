@@ -18,39 +18,11 @@ esac
 
 if [ "$UID" -eq "$ROOT_UID" ]
 then
-	rm -Rf /usr/share/icons/masalla-icon-theme
-	rm -Rf /usr/share/icons/masalla-icon-theme-dark
-	rm -Rf /usr/share/icons/masalla-red
-	rm -Rf /usr/share/icons/masalla-red-dark
-	rm -Rf /usr/share/icons/masalla-yellow
-	rm -Rf /usr/share/icons/masalla-yellow-dark
-	rm -Rf /usr/share/icons/masalla-grey
-	rm -Rf /usr/share/icons/masalla-grey-dark
-	rm -Rf /usr/share/icons/masalla-green
-	rm -Rf /usr/share/icons/masalla-green-dark
-	rm -Rf /usr/share/icons/masalla-violet
-	rm -Rf /usr/share/icons/masalla-violet-dark
-	rm -Rf /usr/share/icons/masalla-brown
-	rm -Rf /usr/share/icons/masalla-brown-dark
-	rm -Rf /usr/share/icons/masalla-black
-	rm -Rf /usr/share/icons/masalla-black-dark
+	rm -Rf /usr/share/icons/masalla
+	rm -Rf /usr/share/icons/masalla-dark
 else
-	rm -Rf $HOME/.icons/masalla-icon-theme
-	rm -Rf $HOME/.icons/masalla-icon-theme-dark
-	rm -Rf $HOME/.icons/masalla-red
-	rm -Rf $HOME/.icons/masalla-red-dark
-	rm -Rf $HOME/.icons/masalla-yellow
-	rm -Rf $HOME/.icons/masalla-yellow-dark
-	rm -Rf $HOME/.icons/masalla-grey
-	rm -Rf $HOME/.icons/masalla-grey-dark
-	rm -Rf $HOME/.icons/masalla-green
-	rm -Rf $HOME/.icons/masalla-green-dark
-	rm -Rf $HOME/.icons/masalla-violet
-	rm -Rf $HOME/.icons/masalla-violet-dark
-	rm -Rf $HOME/.icons/masalla-brown
-	rm -Rf $HOME/.icons/masalla-brown-dark
-	rm -Rf $HOME/.icons/masalla-black
-	rm -Rf $HOME/.icons/masalla-black-dark
+	rm -Rf $HOME/.icons/masalla
+	rm -Rf $HOME/.icons/masalla-dark
 fi
 
 echo "Uninstall complete. Bey :-("

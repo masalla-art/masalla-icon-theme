@@ -10,20 +10,15 @@ How to install:
 
 (NOTE: if you use KDE, you should install icons as root)
 1- Download the ".tar.gz" file from here:
-        https://github.com/hayderctee/masalla-icon-theme/releases
+        https://github.com/masalla-art/masalla-icon-theme/releases
 and extract it.
 
 2- You can simply install icon theme by running "INSTALL" script to make them available for local users, 
 OR run this script as root to make them available for all users, then choose "masalla icon theme" from your system setting (tweak tool , unity tweak , lxappearance ,....etc)
+
 3- choose "masalla icon theme" from your system setting (tweak tool , unity tweak , lxappearance ,....etc)
 
 4- To remove theme, run "UNINSTALL" script.
-
-
-for Manjaro Linux users: (thanks to manjaro community)
-	   
-      #pacman -S masalla-icon-theme
-
 
 
 NOTE:  If you are using KDE desktop then run the following commands too:

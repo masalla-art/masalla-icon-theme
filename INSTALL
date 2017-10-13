@@ -37,9 +37,9 @@ case $distro in
     * ) echo "Wrong value: installaton aborted."; exit 1;;
 esac
 iconname="$distributor"
-cd ./masalla-icon-theme/apps/scalable/ && ln -sf ./$iconname.svg distributor-logo.svg && cd ../../..
+cd ./masalla/apps/scalable/ && ln -sf ./$iconname.svg distributor-logo.svg && cd ../../..
 for size in 48x48 24x24 22x22; do
-	cd ./masalla-icon-theme/apps/$size/ && ln -sf ./$iconname.svg distributor-logo.svg && cd ../../..
+	cd ./masalla/apps/$size/ && ln -sf ./$iconname.svg distributor-logo.svg && cd ../../..
 done
 
 if [ -d $HOME/.icons/masalla ]
@@ -47,7 +47,7 @@ then
 	echo
 	read -p "An existing installation have been detected in $HOME/.icons. Remove it previously ? [Y]es, [N]o :" response
 	case $response in
-		[Yy]* ) rm -Rf $HOME/.icons/masalla-icon-theme 2>/dev/null; rm -Rf $HOME/.icons/masalla-icon-theme-dark 2>/dev/null; rm -Rf $HOME/.icons/masalla-red 2>/dev/null; rm -Rf $HOME/.icons/masalla-red-dark 2>/dev/null; rm -Rf $HOME/.icons/masalla-yellow 2>/dev/null; rm -Rf $HOME/.icons/masalla-black 2>/dev/null;rm -Rf $HOME/.icons/masalla-black-dark 2>/dev/null;rm -Rf $HOME/.icons/masalla-violet-dark 2>/dev/null;rm -Rf $HOME/.icons/masalla-violet 2>/dev/null;rm -Rf $HOME/.icons/masalla-brown-dark 2>/dev/null;rm -Rf $HOME/.icons/masalla-brown 2>/dev/null; rm -Rf $HOME/.icons/masalla-grey-dark 2>/dev/null; rm -Rf $HOME/.icons/masalla-grey 2>/dev/null; rm -Rf $HOME/.icons/masalla-green-dark 2>/dev/null; rm -Rf $HOME/.icons/masalla-green 2>/dev/null; rm -Rf $HOME/.icons/masalla-yellow-dark 2>/dev/null;;
+		[Yy]* ) rm -Rf $HOME/.icons/masalla 2>/dev/null; rm -Rf $HOME/.icons/masalla-dark 2>/dev/null;;
 	    * ) ;;
 	esac
 fi
@@ -59,47 +59,21 @@ then
 		echo
 		read -p "An existing installation has been detected in /usr/share/icons. Remove it previously ? [Y]es, [N]o :" response
 		case $response in
-			[Yy]* ) rm -Rf /usr/share/icons/masalla-icon-theme 2>/dev/null; rm -Rf /usr/share/icons/masalla-icon-theme-dark 2>/dev/null; rm -Rf /usr/share/icons/masalla-red 2>/dev/null; rm -Rf /usr/share/icons/masalla-red-dark 2>/dev/null; rm -Rf /usr/share/icons/masalla-yellow 2>/dev/null; rm -Rf /usr/share/icons/masalla-black 2>/dev/null;rm -Rf /usr/share/icons/masalla-black-dark 2>/dev/null;rm -Rf /usr/share/icons/masalla-violet-dark 2>/dev/null;rm -Rf /usr/share/icons/masalla-violet 2>/dev/null;rm -Rf /usr/share/icons/masalla-brown-dark 2>/dev/null;rm -Rf /usr/share/icons/masalla-brown 2>/dev/null; rm -Rf /usr/share/icons/masalla-grey-dark 2>/dev/null; rm -Rf /usr/share/icons/masalla-grey 2>/dev/null; rm -Rf /usr/share/icons/masalla-green-dark 2>/dev/null; rm -Rf /usr/share/icons/masalla-green 2>/dev/null; rm -Rf /usr/share/icons/masalla-yellow-dark 2>/dev/null;;
+			[Yy]* ) rm -Rf /usr/share/icons/masalla 2>/dev/null; rm -Rf /usr/share/icons/masalla-dark 2>/dev/null;;
 		    * ) ;;
 		esac
 		echo
 	fi
 	./CLEAN
-	cp -R ./masalla-icon-theme/ /usr/share/icons/
-	cp -R ./masalla-icon-theme-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-red/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-red-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-yellow/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-yellow-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-grey/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-grey-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-green/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-green-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-violet/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-violet-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-brown/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-brown-dark/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-black/ /usr/share/icons/
-	cp -R ./masalla-colors/masalla-black-dark/ /usr/share/icons/
+	cp -R ./masalla /usr/share/icons/
+	cp -R ./masalla-dark /usr/share/icons/
+
 	install_dir=/usr/share/icons/
 else
 	./CLEAN
-	cp -R ./masalla-icon-theme/ $HOME/.icons/
-	cp -R ./masalla-icon-theme-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-red/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-red-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-yellow/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-yellow-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-grey/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-grey-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-green/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-green-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-violet/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-violet-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-brown/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-brown-dark/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-black/ $HOME/.icons/
-	cp -R ./masalla-colors/masalla-black-dark/ $HOME/.icons/
+	cp -R ./masalla $HOME/.icons/
+	cp -R ./masalla-dark $HOME/.icons/
+
 	install_dir=$HOME/.icons/
 fi
 
